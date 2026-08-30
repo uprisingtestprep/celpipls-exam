@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "listening_to_problem_solving",
+    "front": "What is Listening Part 1 called on CELPIP-LS?",
+    "back": "Part 1 is called Listening to Problem Solving. You hear one speaker describe a problem or dilemma and explain their decision, then answer questions about what happened."
+  },
+  {
+    "id": 2,
+    "domain": "listening_to_problem_solving",
+    "front": "What should you listen for in Part 1?",
+    "back": "Listen for the problem itself, the options considered, and the final decision the speaker makes. The test often asks what solution was actually chosen, not just what was suggested."
+  },
+  {
+    "id": 3,
+    "domain": "listening_to_problem_solving",
+    "front": "What phrase often introduces a problem in conversation?",
+    "back": "Speakers often say things like 'The thing is...', 'The issue is...', or 'I'm having trouble with...'. In Part 1, listen for the speaker to use a phrase like this to introduce their problem."
+  },
+  {
+    "id": 4,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'weigh the options' mean?",
+    "back": "To weigh the options means to think carefully about the good and bad points of each choice before deciding. In Part 1, the speaker often weighs options out loud before settling on a solution."
+  },
+  {
+    "id": 5,
+    "domain": "listening_to_problem_solving",
+    "front": "What phrase signals a speaker is rejecting a suggestion?",
+    "back": "Common rejection phrases include 'That won't work because...', 'I don't think that's a good idea', or 'That's not really an option'. Listen for these to know which choices get eliminated."
+  },
+  {
+    "id": 6,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'let's go with' mean in a conversation?",
+    "back": "It means the speaker is choosing or agreeing to a particular option. For example, 'Let's go with the second plan' means they have decided on plan two."
+  },
+  {
+    "id": 7,
+    "domain": "listening_to_problem_solving",
+    "front": "Why is it risky to answer based on the first idea mentioned?",
+    "back": "The first idea mentioned is often not the final decision. The speaker usually considers several options before deciding, so wait to hear the whole monologue before choosing your answer."
+  },
+  {
+    "id": 8,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'on second thought' signal?",
+    "back": "It signals that a speaker is changing their mind about something they just said. Whatever comes after 'on second thought' usually replaces the earlier idea."
+  },
+  {
+    "id": 9,
+    "domain": "listening_to_problem_solving",
+    "front": "What is a common Part 1 setting or context?",
+    "back": "Common settings include workplace problems, roommate conflicts, planning an event, or dealing with a scheduling issue. The speaker is usually one person narrating their own situation."
+  },
+  {
+    "id": 10,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'compromise' mean?",
+    "back": "A compromise is an agreement where each side gives up part of what they want to reach a solution both can accept. Part 1 conversations often end in a compromise."
+  },
+  {
+    "id": 11,
+    "domain": "listening_to_problem_solving",
+    "front": "What is a good strategy for reading questions before listening?",
+    "back": "Quickly preview the questions and answer choices before the audio starts. This helps you know what details to listen for while the conversation plays."
+  },
+  {
+    "id": 12,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'I'd rather' express?",
+    "back": "It expresses a preference. For example, 'I'd rather stay home' means the speaker prefers staying home over another option that was mentioned."
+  },
+  {
+    "id": 13,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'that's a fair point' show about a speaker?",
+    "back": "It shows the speaker agrees that the other person made a reasonable argument. This phrase often appears just before someone changes their opinion in a discussion."
+  },
+  {
+    "id": 14,
+    "domain": "listening_to_problem_solving",
+    "front": "How many times do you hear the audio in Part 1?",
+    "back": "In the real CELPIP-LS test, you hear each Listening passage only once, so it is important to stay focused and take short notes as you listen."
+  },
+  {
+    "id": 15,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'in the long run' mean?",
+    "back": "It means over a longer period of time, considering future results rather than just the immediate situation. A speaker might use this to explain why they chose a solution that helps later, even if it costs more now."
+  },
+  {
+    "id": 16,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'bottom line' mean in a discussion?",
+    "back": "The bottom line is the most important final point or conclusion. When a speaker says 'the bottom line is', they are about to state the key decision or fact."
+  },
+  {
+    "id": 17,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'I see your point, but...' signal?",
+    "back": "It signals the speaker understands the other person's idea but is about to disagree or offer a different view. Listen carefully to what follows 'but'."
+  },
+  {
+    "id": 18,
+    "domain": "listening_to_problem_solving",
+    "front": "Why should you take brief notes while listening?",
+    "back": "Short notes on names, numbers, and decisions help you remember details for the questions that come after the audio. You cannot replay the recording, so quick notes support your memory."
+  },
+  {
+    "id": 19,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'run out of time' mean?",
+    "back": "It means there is no time left to finish something. In Part 1, this phrase might explain why a speaker rejects a plan that takes too long."
+  },
+  {
+    "id": 20,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'plan B' mean?",
+    "back": "Plan B is a backup plan used if the first plan does not work out. Listen for it in Part 1 when the speaker explains what they would do if their first idea failed."
+  },
+  {
+    "id": 21,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'settle on' mean?",
+    "back": "To settle on something means to finally choose it after considering other choices. 'They settled on Friday' means Friday was the final decision."
+  },
+  {
+    "id": 22,
+    "domain": "listening_to_problem_solving",
+    "front": "What common trap do Part 1 questions include?",
+    "back": "A common trap is an answer choice that was mentioned in the conversation but later rejected. Always match your answer to what was finally decided, not just what was said."
+  },
+  {
+    "id": 23,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'that makes sense' show?",
+    "back": "It shows the speaker agrees or understands the reasoning just given. It often comes right before a decision is confirmed in the conversation."
+  },
+  {
+    "id": 24,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'to be honest' introduce?",
+    "back": "It introduces the speaker's true or direct opinion, often one that may sound negative or critical. It signals an honest reaction is coming next."
+  },
+  {
+    "id": 25,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'it's up to you' mean?",
+    "back": "It means the decision is left for the other person to make. This phrase shows one speaker giving control of the final choice to their partner in the conversation."
+  },
+  {
+    "id": 26,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'reconsider' mean?",
+    "back": "To reconsider means to think about a decision again, often because new information came up. Listen for this word when a speaker may change an earlier choice."
+  },
+  {
+    "id": 27,
+    "domain": "listening_to_problem_solving",
+    "front": "What is a good tip for eliminating wrong answers in Part 1?",
+    "back": "Cross out any answer choice that matches an idea the speaker clearly rejected. This narrows your choices to what was actually decided."
+  },
+  {
+    "id": 28,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'give it a shot' mean?",
+    "back": "It means to try something, even if you are not sure it will work. A speaker might say this when agreeing to attempt a suggested solution."
+  },
+  {
+    "id": 29,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'no big deal' mean?",
+    "back": "It means something is not a serious problem or is easy to handle. A speaker might use this phrase to downplay how serious their problem actually is."
+  },
+  {
+    "id": 30,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'work something out' mean?",
+    "back": "It means to find a solution to a problem, often through thinking it through carefully. Part 1 is usually about one speaker working something out on their own and explaining their decision."
+  },
+  {
+    "id": 31,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'follow up' mean?",
+    "back": "To follow up means to check on something later or take a further action after an initial step. A speaker may say they will follow up with someone about the agreed plan."
+  },
+  {
+    "id": 32,
+    "domain": "listening_to_problem_solving",
+    "front": "What does 'sounds good to me' confirm?",
+    "back": "It confirms that a speaker agrees with a plan or suggestion. This phrase often marks the final agreement point in a Part 1 conversation."
+  },
+  {
+    "id": 33,
+    "domain": "listening_to_problem_solving",
+    "front": "How should you handle unfamiliar vocabulary during Part 1?",
+    "back": "Do not panic on one unknown word. Focus on the overall meaning of the sentence and keep listening, since the next few sentences often clarify the point."
+  },
+  {
+    "id": 34,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What is CELPIP-LS Listening Part 2 called?",
+    "back": "Part 2 is called Listening to a Daily Life Conversation. You listen to a casual conversation between two people about everyday topics, then answer questions about details and opinions."
+  },
+  {
+    "id": 35,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What kinds of topics appear in Part 2?",
+    "back": "Common topics include making plans with friends, talking about hobbies, discussing family events, or chatting about daily routines and everyday errands."
+  },
+  {
+    "id": 36,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'catch up' mean in casual conversation?",
+    "back": "To catch up means to talk with someone about what has happened since you last saw them. Friends often say 'let's catch up soon' to plan a meeting."
+  },
+  {
+    "id": 37,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'How's it going?' mean?",
+    "back": "It is a casual greeting asking how someone is doing. It is common at the start of daily life conversations and usually gets a short, informal reply."
+  },
+  {
+    "id": 38,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'drop by' mean?",
+    "back": "To drop by means to visit someone briefly and often without a formal plan. For example, 'I might drop by your place after work' means a short, casual visit."
+  },
+  {
+    "id": 39,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'no worries' mean?",
+    "back": "It is a casual way to say something is fine or not a problem. It is often used to respond to an apology or a small favour."
+  },
+  {
+    "id": 40,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm swamped' mean?",
+    "back": "It means the speaker is very busy, usually with work or other tasks. This phrase often explains why someone cannot do something in a daily conversation."
+  },
+  {
+    "id": 41,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'grab a bite' mean?",
+    "back": "It means to eat something quickly, often at a casual restaurant. Friends might say 'let's grab a bite before the movie' when making plans."
+  },
+  {
+    "id": 42,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What is a good listening strategy for casual speech in Part 2?",
+    "back": "Listen for tone and attitude as well as facts, since Part 2 often asks how a speaker feels about something, not just what they say."
+  },
+  {
+    "id": 43,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I can't make it' mean?",
+    "back": "It means the speaker is unable to attend or come to something. For example, 'I can't make it to the party' means they will not be able to go."
+  },
+  {
+    "id": 44,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'hang out' mean?",
+    "back": "To hang out means to spend relaxed, informal time with someone, often without a specific plan. Friends commonly say they will hang out this weekend."
+  },
+  {
+    "id": 45,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'that's rough' show?",
+    "back": "It shows sympathy toward a difficult situation someone described. This phrase often appears when one speaker reacts to a problem the other person mentions."
+  },
+  {
+    "id": 46,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I owe you one' mean?",
+    "back": "It means the speaker feels grateful and will return the favour later. It is common when someone helps a friend or family member in a daily conversation."
+  },
+  {
+    "id": 47,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'keep in touch' mean?",
+    "back": "It means to stay in contact with someone, usually by phone, text, or visits. Speakers often say this at the end of a conversation before saying goodbye."
+  },
+  {
+    "id": 48,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm not really into it' mean?",
+    "back": "It means the speaker does not have much interest in something. For example, someone might say this about a hobby or activity they do not enjoy."
+  },
+  {
+    "id": 49,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'take it easy' mean?",
+    "back": "It can mean to relax and not work too hard, or it can be a casual way to say goodbye. The meaning depends on the context of the conversation."
+  },
+  {
+    "id": 50,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'long time no see' mean?",
+    "back": "It is a casual greeting used when meeting someone you have not seen in a while. It shows the speakers have not talked or met recently."
+  },
+  {
+    "id": 51,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm running late' mean?",
+    "back": "It means the speaker is behind schedule and will arrive later than planned. This phrase often explains a delay in daily life conversations."
+  },
+  {
+    "id": 52,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'chill out' mean?",
+    "back": "It means to relax and calm down. A speaker might tell a stressed friend to chill out during a casual conversation."
+  },
+  {
+    "id": 53,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'll pass' mean?",
+    "back": "It means the speaker is declining an offer or invitation. For example, 'I'll pass on dessert' means they do not want any."
+  },
+  {
+    "id": 54,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'count me in' mean?",
+    "back": "It means the speaker agrees to join or participate in a plan. It is the opposite of declining and shows enthusiasm to be included."
+  },
+  {
+    "id": 55,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "Why is understanding tone important in Part 2?",
+    "back": "Questions often ask about a speaker's feeling or opinion, such as whether they are excited, annoyed, or unsure. Tone of voice and word choice give clues beyond the literal words."
+  },
+  {
+    "id": 56,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'my bad' mean?",
+    "back": "It is a casual way of admitting a small mistake, similar to saying sorry. It is common in relaxed conversations between friends or family."
+  },
+  {
+    "id": 57,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm beat' mean?",
+    "back": "It means the speaker is very tired. This casual expression often appears after someone describes a long or busy day."
+  },
+  {
+    "id": 58,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'touch base' mean?",
+    "back": "It means to briefly contact someone to share updates or check in. For example, 'let's touch base tomorrow' means they will talk again the next day."
+  },
+  {
+    "id": 59,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm on my way' mean?",
+    "back": "It means the speaker has already left and is currently travelling to the location. It reassures the listener that the person is coming soon."
+  },
+  {
+    "id": 60,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'let's play it by ear' mean?",
+    "back": "It means to decide something later without a fixed plan, depending on how the situation develops. It shows flexibility rather than a firm decision."
+  },
+  {
+    "id": 61,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm good, thanks' usually respond to?",
+    "back": "It is a polite way to decline an offer, such as more food or help. It shows the speaker is satisfied and does not need anything further."
+  },
+  {
+    "id": 62,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'small talk' mean?",
+    "back": "Small talk is light, casual conversation about unimportant topics like weather or weekend plans. It often happens before a deeper conversation begins."
+  },
+  {
+    "id": 63,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'give someone a hand' mean?",
+    "back": "It means to help someone with a task. For example, 'Can you give me a hand with these boxes?' is a request for help."
+  },
+  {
+    "id": 64,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'that's the last thing I need' express?",
+    "back": "It expresses frustration, meaning the situation is an unwanted extra problem. Listen for negative tone words like this to identify a speaker's true feelings."
+  },
+  {
+    "id": 65,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'I'm looking forward to it' mean?",
+    "back": "It means the speaker feels excited and positive about something that will happen soon. This shows a clearly positive attitude toward an upcoming event."
+  },
+  {
+    "id": 66,
+    "domain": "listening_to_a_daily_life_conversation",
+    "front": "What does 'to tell you the truth' introduce?",
+    "back": "It introduces a personal, honest opinion, sometimes one the speaker was hesitant to share. It often signals an important detail is about to be revealed."
+  },
+  {
+    "id": 67,
+    "domain": "listening_for_information",
+    "front": "What is CELPIP-LS Listening Part 3 called?",
+    "back": "Part 3 is called Listening for Information. You hear a short talk, announcement, or monologue with factual details, then answer questions about specific information given."
+  },
+  {
+    "id": 68,
+    "domain": "listening_for_information",
+    "front": "What kind of speaker do you usually hear in Part 3?",
+    "back": "You typically hear one speaker giving information, such as an announcement, a set of instructions, or a description of an event, service, or schedule."
+  },
+  {
+    "id": 69,
+    "domain": "listening_for_information",
+    "front": "What should you focus on in Part 3?",
+    "back": "Focus on specific facts such as times, dates, locations, prices, and names. Part 3 questions usually test whether you caught exact details correctly."
+  },
+  {
+    "id": 70,
+    "domain": "listening_for_information",
+    "front": "Why is it important to write down numbers quickly in Part 3?",
+    "back": "Numbers such as times, dates, and prices are easy to forget and often tested directly. Jotting them down as you hear them helps you answer accurately later."
+  },
+  {
+    "id": 71,
+    "domain": "listening_for_information",
+    "front": "What does 'please note that' usually introduce?",
+    "back": "It usually introduces an important detail or exception the listener needs to remember, such as a schedule change or a special rule."
+  },
+  {
+    "id": 72,
+    "domain": "listening_for_information",
+    "front": "What does 'as of' mean when giving information?",
+    "back": "It means starting from a specific date or time. For example, 'as of Monday, the office will open at 9 a.m.' shows exactly when a change begins."
+  },
+  {
+    "id": 73,
+    "domain": "listening_for_information",
+    "front": "What does 'effective immediately' mean?",
+    "back": "It means a change starts right away, with no delay. Announcements use this phrase to show a new rule or schedule begins at once."
+  },
+  {
+    "id": 74,
+    "domain": "listening_for_information",
+    "front": "What is a common Part 3 setting?",
+    "back": "Common settings include public transit announcements, store or business information, weather reports, museum or library notices, and event details."
+  },
+  {
+    "id": 75,
+    "domain": "listening_for_information",
+    "front": "What does 'in the event of' mean?",
+    "back": "It means 'if this situation happens'. For example, 'in the event of bad weather, the event will be cancelled' explains a condition and its result."
+  },
+  {
+    "id": 76,
+    "domain": "listening_for_information",
+    "front": "What does 'located at' usually give?",
+    "back": "It usually gives the exact address or place of something, such as a building, office, or event venue. Listen closely for street names or landmarks."
+  },
+  {
+    "id": 77,
+    "domain": "listening_for_information",
+    "front": "What does 'prior to' mean?",
+    "back": "It means before. For example, 'arrive prior to 8 a.m.' means you must arrive before 8 a.m., which is a common instruction in announcements."
+  },
+  {
+    "id": 78,
+    "domain": "listening_for_information",
+    "front": "What does 'subject to change' mean?",
+    "back": "It means the information given might not stay the same and could be updated later. This phrase warns listeners that details may change."
+  },
+  {
+    "id": 79,
+    "domain": "listening_for_information",
+    "front": "How should you handle a list of steps or instructions in Part 3?",
+    "back": "Note the order of steps using short words like 'first', 'then', and 'last'. Part 3 often tests whether you understood the correct sequence of actions."
+  },
+  {
+    "id": 80,
+    "domain": "listening_for_information",
+    "front": "What does 'starting at' usually indicate?",
+    "back": "It usually indicates a beginning time or price. For example, 'tickets starting at 15 dollars' tells you the lowest available price."
+  },
+  {
+    "id": 81,
+    "domain": "listening_for_information",
+    "front": "What does 'kindly note' mean in an announcement?",
+    "back": "It is a polite way of asking listeners to pay attention to important information that follows, similar to 'please note that'."
+  },
+  {
+    "id": 82,
+    "domain": "listening_for_information",
+    "front": "What does 'due to' introduce?",
+    "back": "It introduces a reason or cause for something. For example, 'due to construction, the road is closed' explains why a change is happening."
+  },
+  {
+    "id": 83,
+    "domain": "listening_for_information",
+    "front": "What does 'no later than' mean?",
+    "back": "It means something must happen by a certain time at the latest. 'Submit your form no later than Friday' means Friday is the final deadline."
+  },
+  {
+    "id": 84,
+    "domain": "listening_for_information",
+    "front": "What does 'complimentary' mean in an announcement?",
+    "back": "It means free of charge. For example, 'complimentary coffee is available' means the coffee does not cost anything."
+  },
+  {
+    "id": 85,
+    "domain": "listening_for_information",
+    "front": "What does 'at your earliest convenience' mean?",
+    "back": "It means as soon as reasonably possible for you. It is a polite way of asking someone to complete a task without giving a strict deadline."
+  },
+  {
+    "id": 86,
+    "domain": "listening_for_information",
+    "front": "What does 'rescheduled to' tell you?",
+    "back": "It tells you an event has been moved to a new date or time. Listen carefully for the new detail, since it replaces the original information."
+  },
+  {
+    "id": 87,
+    "domain": "listening_for_information",
+    "front": "Why should you not assume the first date or time mentioned is final?",
+    "back": "Announcements sometimes correct or update an earlier detail later in the same talk. Listen to the whole passage before deciding on your final answer."
+  },
+  {
+    "id": 88,
+    "domain": "listening_for_information",
+    "front": "What does 'valid until' mean?",
+    "back": "It means something can be used up to a certain date, after which it expires. For example, 'the coupon is valid until March 1st' gives its expiry date."
+  },
+  {
+    "id": 89,
+    "domain": "listening_for_information",
+    "front": "What does 'admission is free for' usually specify?",
+    "back": "It usually specifies which group of people does not need to pay to enter, such as children under a certain age or seniors."
+  },
+  {
+    "id": 90,
+    "domain": "listening_for_information",
+    "front": "What does 'proceed to' mean in instructions?",
+    "back": "It means to go to a specific place or move on to the next step. For example, 'proceed to gate 12' tells the listener exactly where to go."
+  },
+  {
+    "id": 91,
+    "domain": "listening_for_information",
+    "front": "What does 'in addition to' signal?",
+    "back": "It signals that another detail or item is being added to what was already mentioned. Listen closely, since this often introduces extra information tested in questions."
+  },
+  {
+    "id": 92,
+    "domain": "listening_for_information",
+    "front": "What does 'closed on' usually indicate?",
+    "back": "It usually indicates specific days when a business or service is not open. For example, 'closed on statutory holidays' tells you exact exceptions."
+  },
+  {
+    "id": 93,
+    "domain": "listening_for_information",
+    "front": "What is a good tip for numbers that sound similar, like 15 and 50?",
+    "back": "Listen for the stressed syllable, since numbers like fifteen and fifty are stressed differently in natural speech. Practising this helps avoid common listening mistakes."
+  },
+  {
+    "id": 94,
+    "domain": "listening_for_information",
+    "front": "What does 'registration is required' mean?",
+    "back": "It means you must sign up in advance to take part in something. This is a common instruction in event or class announcements."
+  },
+  {
+    "id": 95,
+    "domain": "listening_for_information",
+    "front": "What does 'limited availability' mean?",
+    "back": "It means there are only a small number of spots, seats, or items left. Announcements use this to encourage quick action from listeners."
+  },
+  {
+    "id": 96,
+    "domain": "listening_for_information",
+    "front": "What is a smart way to preview Part 3 questions?",
+    "back": "Skim the questions first to identify what type of details are being asked, such as a time, place, or reason, so you know exactly what to listen for."
+  },
+  {
+    "id": 97,
+    "domain": "listening_for_information",
+    "front": "What does 'operating hours' refer to?",
+    "back": "It refers to the times a business or service is open. Announcements often list operating hours clearly, including any special weekend or holiday hours."
+  },
+  {
+    "id": 98,
+    "domain": "listening_for_information",
+    "front": "What does 'please be advised' introduce?",
+    "back": "It introduces an important official notice the listener should pay attention to, often about a change, warning, or requirement."
+  },
+  {
+    "id": 99,
+    "domain": "listening_for_information",
+    "front": "How long is the total CELPIP-LS Listening section approximately?",
+    "back": "The Listening section of CELPIP-LS, covering all 6 parts, generally takes about 46 to 55 minutes to complete in total."
+  },
+  {
+    "id": 100,
+    "domain": "listening_for_information",
+    "front": "What is a general final strategy for all three listening parts?",
+    "back": "Preview the questions before the audio plays, listen actively for key words and details, take short notes, and answer based on the full context rather than just one sentence."
+  },
+  {
+    "id": 101,
+    "domain": "listening_to_a_news_item",
+    "front": "What does headline mean in a news report?",
+    "back": "A headline is the short title at the start of a news story that tells you the main topic. In CELPIP-LS Part 4, listen closely to the opening line because it often works like a headline and gives you the main idea right away."
+  },
+  {
+    "id": 102,
+    "domain": "listening_to_a_news_item",
+    "front": "What does breaking news mean?",
+    "back": "Breaking news is a story that is happening right now or was just reported for the first time. News reports often use this phrase to show the event is recent and important."
+  },
+  {
+    "id": 103,
+    "domain": "listening_to_a_news_item",
+    "front": "What does according to mean in news reports?",
+    "back": "According to introduces where information came from, such as a person, a report, or an organization. For example, according to city officials shows the source of the fact that follows."
+  },
+  {
+    "id": 104,
+    "domain": "listening_to_a_news_item",
+    "front": "What phrase often introduces official comments in news?",
+    "back": "Officials say is a common phrase that introduces a statement from a government or organization representative. It signals that the next information is an official position, not just a rumour."
+  },
+  {
+    "id": 105,
+    "domain": "listening_to_a_news_item",
+    "front": "What is a spokesperson?",
+    "back": "A spokesperson is a person who speaks publicly on behalf of a company, government, or organization. News reports often quote a spokesperson to explain an official response to an event."
+  },
+  {
+    "id": 106,
+    "domain": "listening_to_a_news_item",
+    "front": "What is an eyewitness?",
+    "back": "An eyewitness is a person who personally saw an event happen. News reports sometimes include an eyewitness account to describe what really happened at the scene."
+  },
+  {
+    "id": 107,
+    "domain": "listening_to_a_news_item",
+    "front": "What does authorities mean in a news story?",
+    "back": "Authorities refers to the people or groups in charge, such as police, government departments, or city officials. This word is common in news items about accidents, crimes, or public safety."
+  },
+  {
+    "id": 108,
+    "domain": "listening_to_a_news_item",
+    "front": "What does investigation mean?",
+    "back": "An investigation is a careful examination to find out the facts about something, often after a crime or accident. News reports often say an investigation is underway when the cause of an event is not yet known."
+  },
+  {
+    "id": 109,
+    "domain": "listening_to_a_news_item",
+    "front": "What is the difference between confirmed and unconfirmed?",
+    "back": "Confirmed means the information has been checked and proven true. Unconfirmed means the information has not yet been proven, so listen carefully because the facts might change later in the report."
+  },
+  {
+    "id": 110,
+    "domain": "listening_to_a_news_item",
+    "front": "What is a correspondent?",
+    "back": "A correspondent is a reporter who sends news reports from a specific location, often far from the main news studio. You may hear phrases like our correspondent reports from the scene."
+  },
+  {
+    "id": 111,
+    "domain": "listening_to_a_news_item",
+    "front": "What does in a statement mean in news reports?",
+    "back": "In a statement means the information came from an official written or spoken message released by a person or group. This phrase signals a formal, prepared comment rather than a casual remark."
+  },
+  {
+    "id": 112,
+    "domain": "listening_to_a_news_item",
+    "front": "What does latest developments mean?",
+    "back": "Latest developments means the newest information or changes in an ongoing story. This phrase often appears when a report updates listeners on something that was reported earlier."
+  },
+  {
+    "id": 113,
+    "domain": "listening_to_a_news_item",
+    "front": "What does casualties mean in a news report?",
+    "back": "Casualties refers to people who were hurt or killed in an accident, disaster, or conflict. This word often appears in serious news items, so listen for numbers connected to it."
+  },
+  {
+    "id": 114,
+    "domain": "listening_to_a_news_item",
+    "front": "What does on the scene mean?",
+    "back": "On the scene means physically present at the location where an event happened. A reporter on the scene is giving a live or firsthand report from that place."
+  },
+  {
+    "id": 115,
+    "domain": "listening_to_a_news_item",
+    "front": "What is a press release?",
+    "back": "A press release is an official written announcement given to news organizations to share information. News items often summarize the content of a press release from a company or government body."
+  },
+  {
+    "id": 116,
+    "domain": "listening_to_a_news_item",
+    "front": "What does initiative mean in a news context?",
+    "back": "An initiative is a new plan or program started to achieve a goal. News items about government or community projects often use this word to describe the new effort."
+  },
+  {
+    "id": 117,
+    "domain": "listening_to_a_news_item",
+    "front": "What does funding mean in news reports?",
+    "back": "Funding means money provided to support a project, program, or organization. Listen for who is giving the funding and what it will be used for, since these are common test questions."
+  },
+  {
+    "id": 118,
+    "domain": "listening_to_a_news_item",
+    "front": "What does aftermath mean?",
+    "back": "Aftermath means the period of time and the results right after a serious event, like a storm or accident. News reports use this word to describe what happens once the main event is over."
+  },
+  {
+    "id": 119,
+    "domain": "listening_to_a_news_item",
+    "front": "What is a bulletin?",
+    "back": "A bulletin is a short, official news update, often given quickly to share important new information. A news bulletin usually focuses on the most essential facts only."
+  },
+  {
+    "id": 120,
+    "domain": "listening_to_a_news_item",
+    "front": "What does coverage mean in news reports?",
+    "back": "Coverage means the reporting of an event by news media, including how much attention it receives. A report may mention increased coverage when a story becomes more widely reported."
+  },
+  {
+    "id": 121,
+    "domain": "listening_to_a_news_item",
+    "front": "What is a news anchor?",
+    "back": "A news anchor is the main presenter who reads and introduces news stories in a broadcast. The anchor often introduces the topic before handing off to a correspondent."
+  },
+  {
+    "id": 122,
+    "domain": "listening_to_a_news_item",
+    "front": "What does footage mean?",
+    "back": "Footage means recorded video of an event. News reports often mention that footage shows or captures what happened, which can be an important detail for test questions."
+  },
+  {
+    "id": 123,
+    "domain": "listening_to_a_news_item",
+    "front": "What does impact mean in a news story?",
+    "back": "Impact means the effect or influence an event has on people, places, or systems. Listen for how the report describes the impact, since this is often tested."
+  },
+  {
+    "id": 124,
+    "domain": "listening_to_a_news_item",
+    "front": "What does response mean in a news report?",
+    "back": "Response means the action or reaction taken after an event happens. For example, the government's response to flooding might include emergency funding or new safety rules."
+  },
+  {
+    "id": 125,
+    "domain": "listening_to_a_news_item",
+    "front": "What is the best strategy for Part 4, Listening to a News Item?",
+    "back": "Listen for the five Ws: who, what, when, where, and why. These basic facts are the foundation of almost every news report and are commonly tested."
+  },
+  {
+    "id": 126,
+    "domain": "listening_to_a_news_item",
+    "front": "How can you predict the topic of a news item quickly?",
+    "back": "Pay close attention to the first one or two sentences of the report, since news items usually state the main topic right away. This helps you focus your listening for the rest of the clip."
+  },
+  {
+    "id": 127,
+    "domain": "listening_to_a_news_item",
+    "front": "Why is it important to note numbers and names in Part 4?",
+    "back": "News items often include specific numbers, dates, and names of people or places, and these details are common answer choices in questions. Jot them down quickly so you do not need to rely only on memory."
+  },
+  {
+    "id": 128,
+    "domain": "listening_to_a_news_item",
+    "front": "What should you do if you hear an unfamiliar word in a news item?",
+    "back": "Stay calm and keep listening instead of stopping to think about the word. You can usually still understand the main idea and answer the questions even if you miss one or two words."
+  },
+  {
+    "id": 129,
+    "domain": "listening_to_a_news_item",
+    "front": "Why should you listen for cause and effect language in news items?",
+    "back": "News items often explain why something happened and what resulted from it, using words like because, as a result, and due to. Recognizing these connectors helps you understand the reasons and outcomes being tested."
+  },
+  {
+    "id": 130,
+    "domain": "listening_to_a_news_item",
+    "front": "How many times is the audio usually played in Part 4?",
+    "back": "In every CELPIP-LS listening part, including the news item, the audio is played only once with no exceptions. This is why active note-taking while you listen is so important."
+  },
+  {
+    "id": 131,
+    "domain": "listening_to_a_news_item",
+    "front": "What kinds of topics appear in Part 4 news items?",
+    "back": "News items usually cover real-life topics such as local events, community programs, weather, accidents, or new government initiatives. They are written in a formal, factual news style."
+  },
+  {
+    "id": 132,
+    "domain": "listening_to_a_news_item",
+    "front": "What question format is used in Part 4?",
+    "back": "Part 4 uses multiple choice questions based on the news item you just heard. You choose the answer that best matches the information given in the report."
+  },
+  {
+    "id": 133,
+    "domain": "listening_to_a_news_item",
+    "front": "Are you allowed to take notes during Part 4?",
+    "back": "Yes, note-taking is allowed during the CELPIP-LS listening test. Writing down key facts as you listen can help you answer questions more accurately since the audio plays only once."
+  },
+  {
+    "id": 134,
+    "domain": "listening_to_a_news_item",
+    "front": "Why is the main idea of a news item usually easy to find?",
+    "back": "News items are structured to give the most important information first, similar to a real newscast. Focusing on the opening sentences will usually reveal the main idea before the details follow."
+  },
+  {
+    "id": 135,
+    "domain": "listening_to_a_discussion",
+    "front": "What does I see your point mean in a discussion?",
+    "back": "I see your point means the speaker understands the other person's idea, even if they do not fully agree with it. This phrase is common in discussions to show respectful listening before responding."
+  },
+  {
+    "id": 136,
+    "domain": "listening_to_a_discussion",
+    "front": "What does on the other hand mean?",
+    "back": "On the other hand introduces a different or opposite idea from what was just said. Speakers use it to present a contrasting viewpoint in a discussion."
+  },
+  {
+    "id": 137,
+    "domain": "listening_to_a_discussion",
+    "front": "What does however signal in a discussion?",
+    "back": "However signals a contrast or a change in direction from the previous idea. Listen for it closely, since it often introduces a disagreement or an important exception."
+  },
+  {
+    "id": 138,
+    "domain": "listening_to_a_discussion",
+    "front": "What does in my opinion mean?",
+    "back": "In my opinion introduces a personal belief or view rather than a stated fact. This phrase helps you identify when a speaker is sharing their own perspective."
+  },
+  {
+    "id": 139,
+    "domain": "listening_to_a_discussion",
+    "front": "What does I would argue mean in a discussion?",
+    "back": "I would argue introduces a speaker's own position, often used to politely disagree or add a new idea. It shows the speaker is about to explain their reasoning."
+  },
+  {
+    "id": 140,
+    "domain": "listening_to_a_discussion",
+    "front": "What does that said mean in a discussion?",
+    "back": "That said is used to introduce a point that slightly contrasts with what was just mentioned, without fully rejecting it. It often softens a disagreement."
+  },
+  {
+    "id": 141,
+    "domain": "listening_to_a_discussion",
+    "front": "What does to be honest mean?",
+    "back": "To be honest introduces a frank or direct opinion, often one that might be a little surprising or blunt. Speakers use it to signal they are about to give their real feelings."
+  },
+  {
+    "id": 142,
+    "domain": "listening_to_a_discussion",
+    "front": "What does point out mean in a discussion?",
+    "back": "Point out means to mention or draw attention to a specific fact or detail. A speaker might point out a problem with the other person's idea."
+  },
+  {
+    "id": 143,
+    "domain": "listening_to_a_discussion",
+    "front": "What does bring up mean?",
+    "back": "Bring up means to introduce a topic or idea into the conversation. For example, one speaker might bring up a concern that changes the direction of the discussion."
+  },
+  {
+    "id": 144,
+    "domain": "listening_to_a_discussion",
+    "front": "What is a counter-argument?",
+    "back": "A counter-argument is a response that challenges or opposes another speaker's point. Recognizing counter-arguments helps you understand where the two speakers disagree."
+  },
+  {
+    "id": 145,
+    "domain": "listening_to_a_discussion",
+    "front": "What does weigh in mean in a discussion?",
+    "back": "Weigh in means to give your opinion on a topic, often after listening to others speak first. A speaker who weighs in is adding their perspective to the conversation."
+  },
+  {
+    "id": 146,
+    "domain": "listening_to_a_discussion",
+    "front": "What does perspective mean?",
+    "back": "Perspective means a particular way of viewing or thinking about a situation. Each speaker in a discussion usually has a different perspective based on their experience or beliefs."
+  },
+  {
+    "id": 147,
+    "domain": "listening_to_a_discussion",
+    "front": "What does the word debate mean?",
+    "back": "A debate is a discussion where people express different, often opposing, opinions on a topic. In CELPIP-LS, understanding both sides of a debate helps you answer comparison questions."
+  },
+  {
+    "id": 148,
+    "domain": "listening_to_a_discussion",
+    "front": "What does argue for or argue against mean?",
+    "back": "Argue for means to support an idea with reasons, while argue against means to oppose it with reasons. Listening for these phrases helps you track each speaker's position."
+  },
+  {
+    "id": 149,
+    "domain": "listening_to_a_discussion",
+    "front": "What does concede mean in a discussion?",
+    "back": "Concede means to admit that another person's point is correct or reasonable, even if you still disagree overall. A speaker might say I concede that has a good point before continuing their argument."
+  },
+  {
+    "id": 150,
+    "domain": "listening_to_a_discussion",
+    "front": "What does common ground mean?",
+    "back": "Common ground means shared beliefs or agreement between two people who otherwise disagree. Discussions often end with speakers finding some common ground even if they do not fully agree."
+  },
+  {
+    "id": 151,
+    "domain": "listening_to_a_discussion",
+    "front": "What does the word differ mean in a discussion?",
+    "back": "Differ means to have a different opinion or position from someone else. You might hear our views differ on this issue when two speakers disagree."
+  },
+  {
+    "id": 152,
+    "domain": "listening_to_a_discussion",
+    "front": "What does in contrast mean?",
+    "back": "In contrast introduces an idea that is clearly different from what was just said. It signals a shift to an opposing view or a different situation."
+  },
+  {
+    "id": 153,
+    "domain": "listening_to_a_discussion",
+    "front": "What does nonetheless mean?",
+    "back": "Nonetheless means despite what was just said, similar to however or still. Speakers use it to add a point that continues even though there was an earlier objection."
+  },
+  {
+    "id": 154,
+    "domain": "listening_to_a_discussion",
+    "front": "What does admittedly mean?",
+    "back": "Admittedly is used to accept that something is true, even if it does not support the speaker's main point. For example, admittedly, the plan has some risks, but it also has benefits."
+  },
+  {
+    "id": 155,
+    "domain": "listening_to_a_discussion",
+    "front": "What does going back to what you said mean?",
+    "back": "This phrase is used to return to an earlier point made by another speaker in the discussion. It shows the speaker is directly responding to something said before."
+  },
+  {
+    "id": 156,
+    "domain": "listening_to_a_discussion",
+    "front": "What does if I may add mean?",
+    "back": "If I may add is a polite way to introduce an extra point or idea into the conversation. It shows the speaker is contributing respectfully without interrupting rudely."
+  },
+  {
+    "id": 157,
+    "domain": "listening_to_a_discussion",
+    "front": "What does let me clarify mean?",
+    "back": "Let me clarify means the speaker wants to explain their point more clearly, often because it may have been misunderstood. This phrase often comes before an important detail."
+  },
+  {
+    "id": 158,
+    "domain": "listening_to_a_discussion",
+    "front": "What is a moderator in a discussion?",
+    "back": "A moderator is a person who guides a discussion, keeps it organized, and may ask questions to each speaker. Not every discussion has a moderator, but listen for one if the format includes a third voice."
+  },
+  {
+    "id": 159,
+    "domain": "listening_to_a_discussion",
+    "front": "What does exchange views mean?",
+    "back": "Exchange views means two or more people share and discuss their different opinions with each other. This phrase describes the general activity happening in a discussion passage."
+  },
+  {
+    "id": 160,
+    "domain": "listening_to_a_discussion",
+    "front": "What is a participant in a discussion?",
+    "back": "A participant is a person who takes part in the discussion by speaking and sharing their views. CELPIP-LS Part 5 usually features two participants with different opinions."
+  },
+  {
+    "id": 161,
+    "domain": "listening_to_a_discussion",
+    "front": "What is the best strategy for tracking two speakers in Part 5?",
+    "back": "Keep the two speakers' opinions separate in your notes, using short labels like Speaker A and Speaker B. This prevents you from mixing up who said what when answering questions."
+  },
+  {
+    "id": 162,
+    "domain": "listening_to_a_discussion",
+    "front": "What words signal agreement or disagreement in a discussion?",
+    "back": "Listen for words like I agree, that's true, I see it differently, or I'm not sure about that. These signal words help you quickly identify each speaker's stance."
+  },
+  {
+    "id": 163,
+    "domain": "listening_to_a_discussion",
+    "front": "How is the audio often structured in Part 5, Listening to a Discussion?",
+    "back": "The discussion audio may be presented in more than one segment, sometimes with a short pause between them. Stay focused through the whole passage since later parts can change or add to earlier points."
+  },
+  {
+    "id": 164,
+    "domain": "listening_to_a_discussion",
+    "front": "What is the general format of Part 5, Listening to a Discussion?",
+    "back": "Part 5 typically features two speakers who share different opinions or perspectives on a topic. Your task is to understand each speaker's position and answer questions about what was said."
+  },
+  {
+    "id": 165,
+    "domain": "listening_to_a_discussion",
+    "front": "Why is it useful to note who says what during a discussion?",
+    "back": "Questions in Part 5 often ask you to identify which speaker held a specific opinion. Writing a quick note next to each idea helps you match it to the correct speaker later."
+  },
+  {
+    "id": 166,
+    "domain": "listening_to_a_discussion",
+    "front": "What should you listen for if a speaker changes their opinion?",
+    "back": "Listen for phrases like actually, on second thought, or you make a good point, which can signal that a speaker is adjusting their original view. This change is sometimes the focus of a test question."
+  },
+  {
+    "id": 167,
+    "domain": "listening_to_a_discussion",
+    "front": "Why is it important to separate fact from opinion in a discussion?",
+    "back": "Discussions often mix factual statements with personal opinions, and test questions may ask you to tell them apart. Listening for phrases like I believe or research shows can help you sort the two."
+  },
+  {
+    "id": 168,
+    "domain": "listening_for_viewpoints",
+    "front": "What does stance mean?",
+    "back": "Stance means a person's position or opinion on a topic. In Part 6, identifying the speaker's stance early helps you understand the rest of the talk."
+  },
+  {
+    "id": 169,
+    "domain": "listening_for_viewpoints",
+    "front": "What does claim mean in a viewpoint talk?",
+    "back": "A claim is a statement that a speaker presents as true, often as the main point of their argument. Listening for the main claim helps you understand what the speaker is trying to convince you of."
+  },
+  {
+    "id": 170,
+    "domain": "listening_for_viewpoints",
+    "front": "What does in favour of mean?",
+    "back": "In favour of means supporting or agreeing with an idea or plan. A speaker who is in favour of a proposal will usually give reasons why it is a good idea."
+  },
+  {
+    "id": 171,
+    "domain": "listening_for_viewpoints",
+    "front": "What does opposed to mean?",
+    "back": "Opposed to means against or disagreeing with an idea or plan. A speaker opposed to a proposal will usually explain the problems or risks they see."
+  },
+  {
+    "id": 172,
+    "domain": "listening_for_viewpoints",
+    "front": "What does convinced mean?",
+    "back": "Convinced means fully believing something is true, usually after considering the evidence. A speaker might say I am convinced that this approach is the best option."
+  },
+  {
+    "id": 173,
+    "domain": "listening_for_viewpoints",
+    "front": "What does persuade mean?",
+    "back": "Persuade means to convince someone to believe or do something through reasoning and argument. In Part 6, the speaker is often trying to persuade the listener to accept their viewpoint."
+  },
+  {
+    "id": 174,
+    "domain": "listening_for_viewpoints",
+    "front": "What does argument mean in a viewpoint talk?",
+    "back": "An argument is a set of reasons given to support a particular opinion or conclusion. Understanding the speaker's argument means understanding both their opinion and their reasons for it."
+  },
+  {
+    "id": 175,
+    "domain": "listening_for_viewpoints",
+    "front": "What does reasoning mean?",
+    "back": "Reasoning means the logical process a speaker uses to reach a conclusion. Strong reasoning connects clear evidence to a clear opinion."
+  },
+  {
+    "id": 176,
+    "domain": "listening_for_viewpoints",
+    "front": "What does evidence mean?",
+    "back": "Evidence means facts, examples, or data used to support an opinion or claim. Listen for evidence in a viewpoint talk, since it often explains why the speaker believes what they believe."
+  },
+  {
+    "id": 177,
+    "domain": "listening_for_viewpoints",
+    "front": "What does justify mean?",
+    "back": "Justify means to give a good reason or explanation for a belief or action. A speaker may justify their opinion by explaining the benefits of their position."
+  },
+  {
+    "id": 178,
+    "domain": "listening_for_viewpoints",
+    "front": "What does strongly believe mean?",
+    "back": "Strongly believe shows that a speaker holds their opinion with confidence and certainty. This phrase signals an important part of the speaker's main viewpoint."
+  },
+  {
+    "id": 179,
+    "domain": "listening_for_viewpoints",
+    "front": "What does firmly mean in a viewpoint talk?",
+    "back": "Firmly means in a strong, confident, and unshakable way. A speaker who firmly supports an idea is showing very little doubt about their position."
+  },
+  {
+    "id": 180,
+    "domain": "listening_for_viewpoints",
+    "front": "What does from my perspective mean?",
+    "back": "From my perspective introduces a personal opinion based on the speaker's own experience or point of view. It signals that what follows is subjective rather than a plain fact."
+  },
+  {
+    "id": 181,
+    "domain": "listening_for_viewpoints",
+    "front": "What does I am convinced that mean?",
+    "back": "I am convinced that introduces a strong personal belief the speaker holds after thinking it through. It usually leads directly into the speaker's main opinion."
+  },
+  {
+    "id": 182,
+    "domain": "listening_for_viewpoints",
+    "front": "What does the way I see it mean?",
+    "back": "The way I see it is an informal way to introduce a personal opinion. It signals that the speaker is about to explain how they understand the topic."
+  },
+  {
+    "id": 183,
+    "domain": "listening_for_viewpoints",
+    "front": "What does tone mean in a viewpoint talk?",
+    "back": "Tone means the attitude or feeling behind the speaker's words, such as confident, worried, or hopeful. Paying attention to tone can help you understand how strongly the speaker feels about their opinion."
+  },
+  {
+    "id": 184,
+    "domain": "listening_for_viewpoints",
+    "front": "What does bias mean?",
+    "back": "Bias means a strong personal preference that can affect how someone views a topic. Recognizing bias can help you understand why a speaker sees an issue in a particular way."
+  },
+  {
+    "id": 185,
+    "domain": "listening_for_viewpoints",
+    "front": "What is a main claim?",
+    "back": "A main claim is the central opinion or idea that a speaker wants the listener to accept. Finding the main claim early makes it easier to follow the supporting reasons that come after it."
+  },
+  {
+    "id": 186,
+    "domain": "listening_for_viewpoints",
+    "front": "What is a supporting reason?",
+    "back": "A supporting reason is a detail or explanation that backs up the speaker's main claim. Part 6 questions often ask you to identify which reason supports which opinion."
+  },
+  {
+    "id": 187,
+    "domain": "listening_for_viewpoints",
+    "front": "What does conclusion mean in a viewpoint talk?",
+    "back": "A conclusion is the final point a speaker makes, often summarizing their overall opinion. Listening carefully to the ending of a viewpoint talk can help confirm the speaker's main message."
+  },
+  {
+    "id": 188,
+    "domain": "listening_for_viewpoints",
+    "front": "What does speaker's opinion mean?",
+    "back": "The speaker's opinion is their personal belief or judgment about the topic, rather than a plain fact. In Part 6, almost everything you hear is shaped by this opinion."
+  },
+  {
+    "id": 189,
+    "domain": "listening_for_viewpoints",
+    "front": "What does viewpoint mean?",
+    "back": "A viewpoint is a particular way of thinking about a topic, shaped by a person's beliefs or experience. Part 6 is built around understanding one speaker's viewpoint in detail."
+  },
+  {
+    "id": 190,
+    "domain": "listening_for_viewpoints",
+    "front": "What does rationale mean?",
+    "back": "Rationale means the underlying reason or explanation behind a decision or opinion. A speaker's rationale helps explain why they hold a particular viewpoint."
+  },
+  {
+    "id": 191,
+    "domain": "listening_for_viewpoints",
+    "front": "What does undoubtedly mean?",
+    "back": "Undoubtedly means without any doubt, showing strong certainty. A speaker who says this is undoubtedly the best choice is expressing a very confident opinion."
+  },
+  {
+    "id": 192,
+    "domain": "listening_for_viewpoints",
+    "front": "What does in conclusion mean?",
+    "back": "In conclusion signals that the speaker is about to summarize their main point or finish their talk. This phrase often introduces the clearest statement of the speaker's overall opinion."
+  },
+  {
+    "id": 193,
+    "domain": "listening_for_viewpoints",
+    "front": "What is the best first step when listening to Part 6?",
+    "back": "Try to identify the speaker's overall opinion as early as possible in the talk. Once you know their main position, it becomes easier to follow their supporting reasons."
+  },
+  {
+    "id": 194,
+    "domain": "listening_for_viewpoints",
+    "front": "What should you focus on after finding the speaker's main opinion?",
+    "back": "Listen for the supporting reasons the speaker gives to explain their opinion. Test questions often ask about these specific reasons, not just the general opinion."
+  },
+  {
+    "id": 195,
+    "domain": "listening_for_viewpoints",
+    "front": "How many speakers are usually featured in Part 6, Listening for Viewpoints?",
+    "back": "Part 6 typically features three or four separate speakers, each giving their own self-contained opinion, unlike Part 5's two speakers in direct conversation."
+  },
+  {
+    "id": 196,
+    "domain": "listening_for_viewpoints",
+    "front": "Why should you watch for a shift in tone during a viewpoint talk?",
+    "back": "A change in tone can signal that the speaker is adding an important exception or a stronger opinion. Noticing these shifts can help you catch details that questions may focus on."
+  },
+  {
+    "id": 197,
+    "domain": "listening_for_viewpoints",
+    "front": "What is the general purpose of Part 6, Listening for Viewpoints?",
+    "back": "The purpose of Part 6 is to test how well you can understand and follow a speaker's opinion, including their reasons and conclusion. It focuses on interpretation rather than simple facts."
+  },
+  {
+    "id": 198,
+    "domain": "listening_for_viewpoints",
+    "front": "Why is it useful to separate fact from opinion in Part 6?",
+    "back": "A viewpoint talk often blends facts with personal opinions, and test questions may ask you to identify which is which. Listening for phrases like I believe versus studies show can help you tell them apart."
+  },
+  {
+    "id": 199,
+    "domain": "listening_for_viewpoints",
+    "front": "What signal words often introduce a speaker's reasoning?",
+    "back": "Words like therefore, so, and because often connect a reason to a conclusion in a viewpoint talk. Recognizing these words helps you follow the logical structure of the speaker's argument."
+  },
+  {
+    "id": 200,
+    "domain": "listening_for_viewpoints",
+    "front": "How can the speaker's conclusion help you predict test questions?",
+    "back": "The conclusion often restates or summarizes the speaker's main opinion in a clear way. Reviewing it in your notes can help confirm your answers to questions about the speaker's overall viewpoint."
+  },
+  {
+    "id": 201,
+    "domain": "giving_advice",
+    "front": "How much prep time do you get for Speaking Task 1?",
+    "back": "You get 30 seconds to prepare for Task 1, Giving Advice. Use this short time to pick one clear option and jot down one or two reasons. Do not try to plan every sentence, just the main idea."
+  },
+  {
+    "id": 202,
+    "domain": "giving_advice",
+    "front": "How long is your response time for Speaking Task 1?",
+    "back": "You have 90 seconds to speak for Task 1. Aim to fill most of that time with a clear recommendation, two supporting reasons, and a short closing statement so you do not run out of things to say."
+  },
+  {
+    "id": 203,
+    "domain": "giving_advice",
+    "front": "What is a strong opening line for a Task 1 advice response?",
+    "back": "Try opening with: 'In my opinion, you should choose option A instead of option B.' This tells the listener your recommendation right away, which is exactly what the task is asking for."
+  },
+  {
+    "id": 204,
+    "domain": "giving_advice",
+    "front": "What phrase signals you are giving a reason in Task 1?",
+    "back": "Use phrases like 'The main reason is' or 'This is a good choice because.' These phrases clearly connect your advice to your supporting reason, which examiners listen for."
+  },
+  {
+    "id": 205,
+    "domain": "giving_advice",
+    "front": "How should you compare two options in Task 1?",
+    "back": "Use comparison language such as 'Option A is more convenient than option B' or 'Unlike option B, option A saves you money.' Comparing directly shows the listener you understood both choices."
+  },
+  {
+    "id": 206,
+    "domain": "giving_advice",
+    "front": "What is a useful phrase to acknowledge the other option in Task 1?",
+    "back": "Say something like 'I understand option B might seem appealing, but' before giving your final recommendation. This shows you considered both sides before deciding."
+  },
+  {
+    "id": 207,
+    "domain": "giving_advice",
+    "front": "How can you close a Task 1 response smoothly?",
+    "back": "End with a short summary such as 'So overall, I really think you should go with option A. It fits your situation best.' A clear closing shows good organization."
+  },
+  {
+    "id": 208,
+    "domain": "giving_advice",
+    "front": "What tense is most common in Task 1 advice answers?",
+    "back": "Task 1 mostly uses present tense and modal verbs like should, would, and could. For example, 'You should pick the smaller apartment because it would cost less.'"
+  },
+  {
+    "id": 209,
+    "domain": "giving_advice",
+    "front": "What is the key skill being tested in Speaking Task 1?",
+    "back": "Task 1 tests your ability to give a clear recommendation with logical reasons in a persuasive way. The examiner wants to hear a decision, not just a list of facts about both options."
+  },
+  {
+    "id": 210,
+    "domain": "giving_advice",
+    "front": "How many reasons should you aim to give in a Task 1 response?",
+    "back": "Aim for at least two solid reasons to support your recommendation. One reason alone can feel thin for 90 seconds, while three or more can help you use the full response time well."
+  },
+  {
+    "id": 211,
+    "domain": "giving_advice",
+    "front": "What phrase helps you add a second reason smoothly?",
+    "back": "Use a linking phrase like 'Another reason is' or 'On top of that.' These phrases help your response flow naturally from one point to the next without sounding like a list."
+  },
+  {
+    "id": 212,
+    "domain": "giving_advice",
+    "front": "Should you use personal examples in Task 1 advice?",
+    "back": "Yes, a short personal example can strengthen your advice, such as 'When I moved apartments, I found location mattered more than size.' Keep the example brief so it supports, not replaces, your main advice."
+  },
+  {
+    "id": 213,
+    "domain": "giving_advice",
+    "front": "What is a common Task 1 topic format?",
+    "back": "Task 1 usually presents a friend or family member facing a choice between two options, like two jobs or two apartments, and asks you to recommend one and explain why."
+  },
+  {
+    "id": 214,
+    "domain": "giving_advice",
+    "front": "How should you handle running out of things to say in Task 1?",
+    "back": "Add a practical detail, such as cost, time, convenience, or safety, that you have not mentioned yet. Even repeating your main point in different words is better than stopping early."
+  },
+  {
+    "id": 215,
+    "domain": "giving_advice",
+    "front": "What phrase softens strong advice in Task 1?",
+    "back": "Use 'I would suggest' or 'It might be better if' instead of blunt commands. Softer phrasing sounds natural and polite, similar to how people actually give advice to friends."
+  },
+  {
+    "id": 216,
+    "domain": "giving_advice",
+    "front": "Why is it risky to change your mind mid-answer in Task 1?",
+    "back": "Switching your recommendation partway through can confuse the listener and make your answer sound disorganized. Pick your choice during prep time and stick with it for the whole response."
+  },
+  {
+    "id": 217,
+    "domain": "giving_advice",
+    "front": "What is a natural way to introduce a downside of the rejected option?",
+    "back": "Say 'The problem with option B is that' followed by a specific drawback. Naming a clear downside makes your recommendation feel well reasoned rather than random."
+  },
+  {
+    "id": 218,
+    "domain": "giving_advice",
+    "front": "How can you use future consequences in Task 1 advice?",
+    "back": "Add a sentence like 'If you choose option A, you will likely save time in the long run.' Talking about future results shows deeper thinking about the decision."
+  },
+  {
+    "id": 219,
+    "domain": "giving_advice",
+    "front": "What speaking pace works best for Task 1?",
+    "back": "Speak at a steady, natural pace, not too fast or too slow. Rushing can hurt clarity, while speaking too slowly can leave you with unused response time."
+  },
+  {
+    "id": 220,
+    "domain": "giving_advice",
+    "front": "What should your 30 seconds of prep focus on for Task 1?",
+    "back": "Quickly decide your final choice, then think of two reasons and one closing idea. Do not try to write full sentences, just a short mental or written outline."
+  },
+  {
+    "id": 221,
+    "domain": "giving_advice",
+    "front": "What is a good transition phrase before your conclusion in Task 1?",
+    "back": "Try 'Taking everything into account' or 'All things considered' before your final recommendation. This signals to the listener that you are wrapping up your advice."
+  },
+  {
+    "id": 222,
+    "domain": "giving_advice",
+    "front": "How specific should your reasons be in Task 1?",
+    "back": "Reasons should connect directly to the details given in the prompt, such as budget, location, or family needs. Specific reasons sound more convincing than vague general statements."
+  },
+  {
+    "id": 223,
+    "domain": "giving_advice",
+    "front": "What phrase can introduce a practical suggestion in Task 1?",
+    "back": "Use 'A good idea would be to' followed by a concrete action. This phrase helps you move from general advice to a specific, actionable suggestion."
+  },
+  {
+    "id": 224,
+    "domain": "giving_advice",
+    "front": "Why should you avoid memorized scripts for Task 1?",
+    "back": "Examiners can tell when a response sounds memorized rather than natural. Practise flexible phrases and structures instead so you can adapt them to any topic on test day."
+  },
+  {
+    "id": 225,
+    "domain": "giving_advice",
+    "front": "What is one way to sound confident giving advice in Task 1?",
+    "back": "Use direct language like 'I am confident that option A is the better choice' rather than hesitant phrases. Confident wording supports a clear, persuasive tone."
+  },
+  {
+    "id": 226,
+    "domain": "personal_experience",
+    "front": "How much prep time do you get for Speaking Task 2?",
+    "back": "Task 2, Talking About a Personal Experience, gives you 60 seconds to prepare. This is one of the longer prep times among the eight speaking tasks, so use it to plan a short story with a beginning, middle, and end."
+  },
+  {
+    "id": 227,
+    "domain": "personal_experience",
+    "front": "How long is your response time for Speaking Task 2?",
+    "back": "You have 60 seconds to speak for Task 2. Since prep and response time are equal, plan a simple, clear story during prep rather than a complicated one you cannot finish."
+  },
+  {
+    "id": 228,
+    "domain": "personal_experience",
+    "front": "What tense should you mainly use in Task 2?",
+    "back": "Task 2 asks about a past experience, so use past tense throughout, such as 'I went,' 'I felt,' and 'It happened.' Consistent past tense makes your story easy to follow."
+  },
+  {
+    "id": 229,
+    "domain": "personal_experience",
+    "front": "What is a strong opening line for a Task 2 story?",
+    "back": "Try 'I remember a time when' or 'One experience that stands out to me was.' These openings signal right away that you are about to tell a personal story."
+  },
+  {
+    "id": 230,
+    "domain": "personal_experience",
+    "front": "How should you organize a Task 2 answer?",
+    "back": "Use a simple structure: set the scene, describe what happened, and explain how it ended or how you felt. This beginning, middle, end structure keeps a 60 second story clear and complete."
+  },
+  {
+    "id": 231,
+    "domain": "personal_experience",
+    "front": "What phrase helps set the scene in Task 2?",
+    "back": "Use 'It was a sunny afternoon in Vancouver when' or a similar detail about time and place. Setting the scene quickly helps the listener picture your story from the start."
+  },
+  {
+    "id": 232,
+    "domain": "personal_experience",
+    "front": "What phrase shows a sequence of events in Task 2?",
+    "back": "Use words like 'first,' 'then,' 'after that,' and 'finally' to move your story forward in order. Clear sequencing words make your story easy for the examiner to follow."
+  },
+  {
+    "id": 233,
+    "domain": "personal_experience",
+    "front": "How can you add feeling to a Task 2 story?",
+    "back": "Add a short phrase like 'I felt really nervous at first' or 'I was so relieved when it was over.' Emotion words make a personal story sound more genuine and complete."
+  },
+  {
+    "id": 234,
+    "domain": "personal_experience",
+    "front": "Is it okay to invent a story for Task 2 if you cannot recall a real one?",
+    "back": "Yes, examiners cannot verify facts, so a believable invented story works fine. What matters is clear structure, correct grammar, and natural flow, not whether the story is completely true."
+  },
+  {
+    "id": 235,
+    "domain": "personal_experience",
+    "front": "What is a good way to end a Task 2 story?",
+    "back": "Close with a reflection such as 'Looking back, I learned that' or 'That experience taught me.' A closing reflection gives your story a satisfying, complete ending."
+  },
+  {
+    "id": 236,
+    "domain": "personal_experience",
+    "front": "How specific should details be in a Task 2 story?",
+    "back": "Include specific details like names, places, or approximate dates, such as 'my cousin Maria' or 'last winter in Calgary.' Specific details make a story sound real and easier to tell smoothly."
+  },
+  {
+    "id": 237,
+    "domain": "personal_experience",
+    "front": "What if you cannot think of an experience during Task 2 prep?",
+    "back": "Quickly adapt a similar memory or a story from someone you know to fit the topic. A slightly adjusted story is much better than freezing or saying you have no experience."
+  },
+  {
+    "id": 238,
+    "domain": "personal_experience",
+    "front": "What phrase can introduce a small problem in your Task 2 story?",
+    "back": "Use 'Everything was going well until' or 'Then something unexpected happened.' A small problem or turning point makes your story more interesting to listen to."
+  },
+  {
+    "id": 239,
+    "domain": "personal_experience",
+    "front": "Should you use short or long sentences in Task 2?",
+    "back": "Mix both, but keep most sentences clear and not too long. Short, well-formed sentences are safer than long complicated ones that risk grammar mistakes under time pressure."
+  },
+  {
+    "id": 240,
+    "domain": "personal_experience",
+    "front": "What is a common Task 2 topic type?",
+    "back": "Task 2 often asks about a memorable trip, a challenge you faced, a time you helped someone, or a time you learned something new. Prepare flexible stories that can fit several of these themes."
+  },
+  {
+    "id": 241,
+    "domain": "personal_experience",
+    "front": "How can you use 60 seconds of prep time effectively for Task 2?",
+    "back": "Quickly choose your story, then outline three parts in your head: the setup, the main event, and the outcome. Having this outline ready prevents long pauses during your response."
+  },
+  {
+    "id": 242,
+    "domain": "personal_experience",
+    "front": "What phrase helps describe other people in your Task 2 story?",
+    "back": "Use phrases like 'My friend was surprised when' or 'My coworker suggested that.' Mentioning other people naturally adds detail and makes the story feel more complete."
+  },
+  {
+    "id": 243,
+    "domain": "personal_experience",
+    "front": "Why is having one flexible go-to story useful for Task 2?",
+    "back": "A flexible story, such as a trip or a challenge, can be slightly adjusted to answer many different Task 2 prompts. This reduces stress since you are not inventing something new each time."
+  },
+  {
+    "id": 244,
+    "domain": "personal_experience",
+    "front": "What is a natural way to describe a location in Task 2?",
+    "back": "Use sensory or location detail like 'We were at a small park near downtown Toronto.' Describing the location briefly helps ground the listener in your story."
+  },
+  {
+    "id": 245,
+    "domain": "personal_experience",
+    "front": "How can you show a lesson learned in Task 2?",
+    "back": "Add a sentence like 'Since then, I always try to be more prepared.' Showing personal growth or a lesson learned gives your story a thoughtful, complete finish."
+  },
+  {
+    "id": 246,
+    "domain": "personal_experience",
+    "front": "What should you avoid doing in the middle of a Task 2 story?",
+    "back": "Avoid long pauses or restarting the story from the beginning if you lose your place. Instead, use a filler phrase like 'anyway' and continue moving the story forward."
+  },
+  {
+    "id": 247,
+    "domain": "personal_experience",
+    "front": "What is the examiner mainly listening for in Task 2?",
+    "back": "The examiner listens for a clear, well-organized narrative with correct past tense grammar and natural flow. Strong storytelling skills matter more than an unusual or exciting topic."
+  },
+  {
+    "id": 248,
+    "domain": "personal_experience",
+    "front": "How can you avoid repeating the same word too often in Task 2?",
+    "back": "Vary your vocabulary by swapping 'happy' with 'thrilled' or 'went' with 'headed to' or 'travelled to.' Word variety shows stronger vocabulary range to the examiner."
+  },
+  {
+    "id": 249,
+    "domain": "personal_experience",
+    "front": "What phrase works well to connect two events in your story?",
+    "back": "Use 'Because of that' or 'As a result' to connect a cause and its effect in your story. These connectors show logical cause and effect, which strengthens your narrative."
+  },
+  {
+    "id": 250,
+    "domain": "personal_experience",
+    "front": "Why should a Task 2 story stay focused on one main event?",
+    "back": "With only 60 seconds, covering one clear event in detail is stronger than rushing through several small ones. Focus keeps your story organized and complete within the time limit."
+  },
+  {
+    "id": 251,
+    "domain": "describing_scene",
+    "front": "How much prep time do you get for Speaking Task 3?",
+    "back": "Task 3, Describing a Scene, gives you 30 seconds to prepare. Use this time to scan the picture and mentally note the main areas, such as foreground, background, left, and right."
+  },
+  {
+    "id": 252,
+    "domain": "describing_scene",
+    "front": "How long is your response time for Speaking Task 3?",
+    "back": "You have 60 seconds to speak for Task 3. Plan to describe the picture in an organized way, moving through different parts of the scene rather than jumping around randomly."
+  },
+  {
+    "id": 253,
+    "domain": "describing_scene",
+    "front": "What tense is most useful for describing a scene in Task 3?",
+    "back": "Use the present continuous tense, such as 'A woman is standing near the window' or 'Two children are playing in the yard.' This tense is natural for describing an image happening right now."
+  },
+  {
+    "id": 254,
+    "domain": "describing_scene",
+    "front": "What is a good opening line for Task 3?",
+    "back": "Try 'In this picture, I can see' followed by the main subject of the scene. This opening immediately tells the listener what the image shows."
+  },
+  {
+    "id": 255,
+    "domain": "describing_scene",
+    "front": "How should you organize your description in Task 3?",
+    "back": "Move through the picture in a logical order, such as foreground to background, or left to right. A clear spatial order helps the listener follow your description easily."
+  },
+  {
+    "id": 256,
+    "domain": "describing_scene",
+    "front": "What phrase describes location within a picture in Task 3?",
+    "back": "Use phrases like 'In the background,' 'On the left side,' or 'Next to the table.' Location phrases help the listener picture exactly where each detail sits in the scene."
+  },
+  {
+    "id": 257,
+    "domain": "describing_scene",
+    "front": "How can you describe people's actions in Task 3?",
+    "back": "Use present continuous verbs like 'is wearing,' 'is holding,' or 'appears to be talking.' These verbs clearly show what people in the picture are doing at that moment."
+  },
+  {
+    "id": 258,
+    "domain": "describing_scene",
+    "front": "What should you do if you are unsure what an object is in Task 3?",
+    "back": "Use a general term like 'some kind of device' or 'what looks like a bag.' Guessing with a hedge phrase keeps you speaking smoothly instead of stopping to find the exact word."
+  },
+  {
+    "id": 259,
+    "domain": "describing_scene",
+    "front": "What is a useful hedging phrase for uncertain details in Task 3?",
+    "back": "Try 'It appears that' or 'It looks like.' These phrases let you describe something you are not fully sure about without sounding incorrect."
+  },
+  {
+    "id": 260,
+    "domain": "describing_scene",
+    "front": "How can you use colour and detail in Task 3?",
+    "back": "Mention colours, clothing, or objects, such as 'a man in a blue jacket' or 'a red car parked outside.' Adding visual detail makes your description richer and more specific."
+  },
+  {
+    "id": 261,
+    "domain": "describing_scene",
+    "front": "Why is guessing better than staying silent in Task 3?",
+    "back": "Silence gives the examiner nothing to assess, while a reasonable guess still shows your ability to describe and use English naturally. Always keep talking, even if you are not fully certain of a detail."
+  },
+  {
+    "id": 262,
+    "domain": "describing_scene",
+    "front": "What is a good closing statement for Task 3?",
+    "back": "End with a general summary like 'Overall, it looks like a busy day at the market.' A short closing sentence wraps up your description in a natural way."
+  },
+  {
+    "id": 263,
+    "domain": "describing_scene",
+    "front": "How can you describe the overall setting in Task 3?",
+    "back": "Start broad with something like 'This picture seems to show an outdoor market' before adding smaller details. Naming the setting first gives the listener context for everything else you describe."
+  },
+  {
+    "id": 264,
+    "domain": "describing_scene",
+    "front": "What phrase helps you move to a new part of the picture?",
+    "back": "Use 'Moving to the right' or 'If we look at the background.' These transition phrases help your description flow smoothly from one section of the picture to the next."
+  },
+  {
+    "id": 265,
+    "domain": "describing_scene",
+    "front": "What is the main skill tested in Task 3?",
+    "back": "Task 3 tests your ability to describe visual details clearly and in an organized way using appropriate vocabulary. It is not about guessing a hidden story, just describing what you observe."
+  },
+  {
+    "id": 266,
+    "domain": "describing_scene",
+    "front": "How should you use your 30 seconds of prep time in Task 3?",
+    "back": "Quickly scan the whole picture and pick three or four clear areas or details to describe. Do not focus too long on one small detail during your limited prep time."
+  },
+  {
+    "id": 267,
+    "domain": "describing_scene",
+    "front": "What phrase helps describe quantity in a picture for Task 3?",
+    "back": "Use 'There are several people' or 'A few chairs are arranged around the table.' Quantity phrases add useful detail without needing to count objects exactly."
+  },
+  {
+    "id": 268,
+    "domain": "describing_scene",
+    "front": "Should you describe every tiny detail in the picture for Task 3?",
+    "back": "No, focus on the clearest and most noticeable details rather than every small item. Trying to describe everything can rush your speech and lower clarity."
+  },
+  {
+    "id": 269,
+    "domain": "describing_scene",
+    "front": "What is a natural way to describe facial expression in Task 3?",
+    "back": "Use phrases like 'She seems to be smiling' or 'He looks a bit surprised.' Describing expression adds a human, observational quality to your scene description."
+  },
+  {
+    "id": 270,
+    "domain": "describing_scene",
+    "front": "Why is present continuous tense important for Task 3 grammar accuracy?",
+    "back": "Using present continuous consistently, such as 'is doing' rather than mixing in past tense, keeps your grammar accurate and shows control of tense for a static image."
+  },
+  {
+    "id": 271,
+    "domain": "describing_scene",
+    "front": "What phrase can describe the mood or atmosphere of a scene in Task 3?",
+    "back": "Try 'The atmosphere seems relaxed and friendly' or 'It looks like a busy, energetic environment.' Mood description adds a nice finishing touch to a scene answer."
+  },
+  {
+    "id": 272,
+    "domain": "describing_scene",
+    "front": "How can you avoid long pauses while describing a Task 3 picture?",
+    "back": "Keep a simple pattern in mind, such as location, then action, then detail, and repeat it for each part of the scene. A repeatable pattern keeps you speaking steadily."
+  },
+  {
+    "id": 273,
+    "domain": "describing_scene",
+    "front": "What is a good way to describe clothing in Task 3?",
+    "back": "Use phrases like 'wearing a green sweater' or 'dressed in a formal suit.' Clothing details are easy, safe vocabulary that fill time and add clear visual information."
+  },
+  {
+    "id": 274,
+    "domain": "describing_scene",
+    "front": "How can prepositions help your Task 3 description?",
+    "back": "Prepositions like 'in front of,' 'behind,' 'beside,' and 'between' are essential for describing where objects and people are positioned relative to each other in the picture."
+  },
+  {
+    "id": 275,
+    "domain": "describing_scene",
+    "front": "What is one common mistake to avoid in Task 3?",
+    "back": "Avoid switching into storytelling about what might happen next, since Task 3 asks you to describe the picture as it is now, not predict future events."
+  },
+  {
+    "id": 276,
+    "domain": "making_predictions",
+    "front": "How much prep time do you get for Speaking Task 4?",
+    "back": "Task 4, Making Predictions, gives you 30 seconds to prepare. Use this time to look at the picture and think about what could logically happen next in the scene."
+  },
+  {
+    "id": 277,
+    "domain": "making_predictions",
+    "front": "How long is your response time for Speaking Task 4?",
+    "back": "You have 60 seconds to speak for Task 4. Plan two or three logical predictions during prep so you have enough content to fill the full response time."
+  },
+  {
+    "id": 278,
+    "domain": "making_predictions",
+    "front": "What tense is used most in Task 4 predictions?",
+    "back": "Task 4 mainly uses future forms like 'will,' 'is going to,' and 'is likely to.' For example, 'The rain is going to start soon' shows a clear prediction about the future."
+  },
+  {
+    "id": 279,
+    "domain": "making_predictions",
+    "front": "What is a strong opening line for a Task 4 response?",
+    "back": "Try 'Based on this picture, I predict that' followed by your main prediction. This directly signals to the examiner that you understand the task is about predicting outcomes."
+  },
+  {
+    "id": 280,
+    "domain": "making_predictions",
+    "front": "How should you support a prediction in Task 4?",
+    "back": "Explain your reasoning with a phrase like 'because the dark clouds suggest a storm is coming.' Linking your prediction to a visual clue makes your answer logical and convincing."
+  },
+  {
+    "id": 281,
+    "domain": "making_predictions",
+    "front": "What phrase helps add a second prediction in Task 4?",
+    "back": "Use 'It is also possible that' or 'Another likely outcome is.' Adding a second reasonable prediction helps you use the full 60 seconds and shows flexible thinking."
+  },
+  {
+    "id": 282,
+    "domain": "making_predictions",
+    "front": "How can you describe probability level in Task 4?",
+    "back": "Use phrases like 'will probably,' 'might,' or 'is almost certain to.' Varying your certainty language shows a wider range of vocabulary for talking about future events."
+  },
+  {
+    "id": 283,
+    "domain": "making_predictions",
+    "front": "What is the main skill tested in Task 4?",
+    "back": "Task 4 tests your ability to use future tense language and connect a logical prediction to visible clues in the picture. Predictions should feel reasonable, not random or unrelated."
+  },
+  {
+    "id": 284,
+    "domain": "making_predictions",
+    "front": "What phrase introduces evidence for your prediction in Task 4?",
+    "back": "Use 'Given that' or 'Since it looks like' followed by a detail from the picture. This connects your prediction clearly to something visible, which strengthens your reasoning."
+  },
+  {
+    "id": 285,
+    "domain": "making_predictions",
+    "front": "How should you use your 30 seconds of prep time in Task 4?",
+    "back": "Quickly note the clearest clue in the picture, such as weather, body language, or an object, then think of one or two logical outcomes based on that clue."
+  },
+  {
+    "id": 286,
+    "domain": "making_predictions",
+    "front": "What is a good way to close a Task 4 response?",
+    "back": "End with a summary prediction like 'So overall, I think this situation is likely to end well for everyone involved.' A closing line ties your predictions together neatly."
+  },
+  {
+    "id": 287,
+    "domain": "making_predictions",
+    "front": "Can predictions in Task 4 be about people's feelings, not just events?",
+    "back": "Yes, you can predict emotional outcomes too, such as 'She will probably feel relieved once the meeting is over.' Feelings and events both make valid, natural predictions."
+  },
+  {
+    "id": 288,
+    "domain": "making_predictions",
+    "front": "What phrase helps you describe a short-term prediction in Task 4?",
+    "back": "Use 'In the next few minutes' or 'Very soon.' Short-term time phrases help make your prediction feel connected to the immediate scene shown in the picture."
+  },
+  {
+    "id": 289,
+    "domain": "making_predictions",
+    "front": "What phrase helps you describe a longer-term prediction in Task 4?",
+    "back": "Use 'Eventually' or 'In the long run.' Longer-term phrases work well when your prediction is about a broader outcome rather than something happening immediately."
+  },
+  {
+    "id": 290,
+    "domain": "making_predictions",
+    "front": "Why should predictions in Task 4 stay connected to the picture?",
+    "back": "Predictions that ignore the picture's clues can sound disconnected and confusing. Always tie each prediction back to something you can actually see, such as an object, expression, or setting."
+  },
+  {
+    "id": 291,
+    "domain": "making_predictions",
+    "front": "What is a useful modal verb for uncertain predictions in Task 4?",
+    "back": "Use 'might' or 'could' for less certain predictions, such as 'They might decide to reschedule the trip.' These modals show appropriate uncertainty when an outcome is not obvious."
+  },
+  {
+    "id": 292,
+    "domain": "making_predictions",
+    "front": "How can you use conditional language in Task 4?",
+    "back": "Try 'If the rain continues, the game will probably be cancelled.' Conditional sentences show advanced grammar and connect a cause in the picture to a likely future result."
+  },
+  {
+    "id": 293,
+    "domain": "making_predictions",
+    "front": "What is a common Task 4 topic type?",
+    "back": "Task 4 often shows a picture with a hint of an upcoming event, like dark clouds, a packed suitcase, or people preparing for something, and asks what will happen next."
+  },
+  {
+    "id": 294,
+    "domain": "making_predictions",
+    "front": "Why is varying your future tense forms helpful in Task 4?",
+    "back": "Mixing 'will,' 'is going to,' and 'is likely to' instead of repeating the same phrase shows stronger grammar range and keeps your response sounding natural rather than repetitive."
+  },
+  {
+    "id": 295,
+    "domain": "making_predictions",
+    "front": "How can body language clues help you in Task 4?",
+    "back": "Notice details like a worried expression or crossed arms and use them to justify a prediction, such as 'He looks nervous, so he might be waiting for important news.'"
+  },
+  {
+    "id": 296,
+    "domain": "making_predictions",
+    "front": "What should you avoid doing when making predictions in Task 4?",
+    "back": "Avoid simply describing the picture without predicting anything, since that answers Task 3 style content instead of Task 4. Always move your response forward into what happens next."
+  },
+  {
+    "id": 297,
+    "domain": "making_predictions",
+    "front": "How can weather details support a Task 4 prediction?",
+    "back": "Weather clues are common and useful, such as 'Since the sky is getting darker, it will probably start raining soon.' Weather-based predictions are easy to justify clearly."
+  },
+  {
+    "id": 298,
+    "domain": "making_predictions",
+    "front": "What phrase helps you predict someone's next action in Task 4?",
+    "back": "Use 'He is probably going to' followed by a likely next step, such as 'answer his phone' or 'open the door.' This phrase focuses your prediction on a clear, specific action."
+  },
+  {
+    "id": 299,
+    "domain": "making_predictions",
+    "front": "How many predictions should you aim to make in a Task 4 response?",
+    "back": "Aim for two or three related predictions rather than just one short sentence. Multiple connected predictions help you use the full 60 seconds and show range in your future tense usage."
+  },
+  {
+    "id": 300,
+    "domain": "making_predictions",
+    "front": "What is a quick way to review timing for all of Tasks 1 to 4?",
+    "back": "Task 1 is 30 seconds prep and 90 seconds to speak. Task 2 is 60 seconds prep and 60 seconds to speak. Tasks 3 and 4 are each 30 seconds prep and 60 seconds to speak."
+  },
+  {
+    "id": 301,
+    "domain": "comparing_persuading",
+    "front": "How much prep and speaking time does Task 5 give you?",
+    "back": "Task 5 gives you 60 seconds to prepare and 60 seconds to speak. You must pick one of two options and give reasons that support your choice. Use the full prep time to jot down two or three quick reasons."
+  },
+  {
+    "id": 302,
+    "domain": "comparing_persuading",
+    "front": "What is the main goal of Task 5?",
+    "back": "You must compare two options shown in the pictures and persuade the listener that one option is better. The goal is not just to describe both options but to argue clearly for your choice with reasons."
+  },
+  {
+    "id": 303,
+    "domain": "comparing_persuading",
+    "front": "Give a strong opening line for Task 5.",
+    "back": "Say something like, I have looked at both options carefully, and I believe option A is the better choice for me. This clearly states your decision right away, which raters like to hear early."
+  },
+  {
+    "id": 304,
+    "domain": "comparing_persuading",
+    "front": "Name three comparative phrases for Task 5.",
+    "back": "Useful phrases include compared to, whereas, and on the other hand. For example, compared to the gym membership, the home equipment is much more convenient whereas the gym requires travel time."
+  },
+  {
+    "id": 305,
+    "domain": "comparing_persuading",
+    "front": "How do you end a Task 5 answer strongly?",
+    "back": "Finish with a clear restatement such as, for all these reasons, I would definitely choose the apartment downtown. A firm closing sentence shows the listener your decision is final and well supported."
+  },
+  {
+    "id": 306,
+    "domain": "comparing_persuading",
+    "front": "What tense should you mainly use in Task 5?",
+    "back": "Use present tense to describe facts and simple future or conditional forms to talk about your choice, such as this option will save me more money or I would prefer this one because."
+  },
+  {
+    "id": 307,
+    "domain": "comparing_persuading",
+    "front": "How should you use your 60 seconds of prep time in Task 5?",
+    "back": "Spend the first 10 seconds deciding your final answer, then quickly note two strong reasons for that choice and one small point about the other option. Do not try to write full sentences, just short notes."
+  },
+  {
+    "id": 308,
+    "domain": "comparing_persuading",
+    "front": "What is a common mistake in Task 5?",
+    "back": "A common mistake is describing both pictures equally without ever clearly saying which one you prefer. You must state your choice early and keep supporting it throughout your answer."
+  },
+  {
+    "id": 309,
+    "domain": "comparing_persuading",
+    "front": "Give a phrase to introduce a second reason in Task 5.",
+    "back": "You can say, another reason I prefer this option is or, in addition, this choice also offers. These transition phrases help you move smoothly from one point to the next."
+  },
+  {
+    "id": 310,
+    "domain": "comparing_persuading",
+    "front": "How can you sound persuasive rather than just descriptive?",
+    "back": "Use opinion language such as I strongly believe, this is clearly the better option, or there is no question that. These phrases show confidence and push your argument rather than simply listing facts."
+  },
+  {
+    "id": 311,
+    "domain": "comparing_persuading",
+    "front": "What should you do if you run out of things to say in Task 5?",
+    "back": "Add a short personal example, such as explaining how the option fits your daily routine or budget. Personal detail fills time naturally and keeps your answer sounding genuine rather than rehearsed."
+  },
+  {
+    "id": 312,
+    "domain": "comparing_persuading",
+    "front": "Give a phrase for acknowledging the other option before rejecting it.",
+    "back": "You can say, although the second option has some benefits, it does not suit my needs as well. This shows balanced thinking while still keeping your argument clearly in favour of your choice."
+  },
+  {
+    "id": 313,
+    "domain": "comparing_persuading",
+    "front": "What kind of vocabulary boosts your score in Task 5?",
+    "back": "Use precise comparative words like more affordable, far more convenient, considerably faster, or significantly safer. Precise comparisons sound more natural than simply repeating the word better again and again."
+  },
+  {
+    "id": 314,
+    "domain": "comparing_persuading",
+    "front": "How long should you speak without stopping in Task 5?",
+    "back": "Try to speak for close to the full 60 seconds without long pauses. Short natural pauses are fine, but silence for several seconds will hurt your fluency score."
+  },
+  {
+    "id": 315,
+    "domain": "comparing_persuading",
+    "front": "Give an example closing sentence with a summary word.",
+    "back": "Overall, considering the cost, location, and convenience, the downtown apartment is clearly the smarter choice for me. Overall is a useful word to signal you are wrapping up your argument."
+  },
+  {
+    "id": 316,
+    "domain": "comparing_persuading",
+    "front": "What is a useful phrase for weighing cost in Task 5?",
+    "back": "You can say, although it costs a bit more upfront, it will save money in the long run. This phrase lets you acknowledge a downside while still supporting your final choice."
+  },
+  {
+    "id": 317,
+    "domain": "comparing_persuading",
+    "front": "How can you use hypothetical language to persuade?",
+    "back": "Say something like, if I chose the other option, I would end up spending more time commuting. This shows the listener the negative outcome of the option you are not choosing."
+  },
+  {
+    "id": 318,
+    "domain": "comparing_persuading",
+    "front": "Should you mention who the listener is in Task 5?",
+    "back": "Yes, Task 5 usually gives a specific audience such as a friend or roommate, so speak directly to them using words like you and your. This keeps your tone natural and conversational."
+  },
+  {
+    "id": 319,
+    "domain": "comparing_persuading",
+    "front": "Give a phrase for emphasizing your strongest reason.",
+    "back": "You can say, most importantly, this option gives me much more flexibility with my schedule. Leading with most importantly signals to the listener that this is your key argument."
+  },
+  {
+    "id": 320,
+    "domain": "comparing_persuading",
+    "front": "What structure works well for Task 5 answers?",
+    "back": "State your choice, give two or three supporting reasons in order of importance, briefly address the other option, then close with a firm restatement of your choice. This structure keeps your answer organized and easy to follow."
+  },
+  {
+    "id": 321,
+    "domain": "comparing_persuading",
+    "front": "How do you talk about long term benefits persuasively?",
+    "back": "Use phrases like in the long run or over time to highlight lasting advantages, such as over time this option will actually be cheaper because it needs less maintenance."
+  },
+  {
+    "id": 322,
+    "domain": "comparing_persuading",
+    "front": "Give a way to express strong preference politely.",
+    "back": "You can say, personally, I would much rather go with the smaller car because it is easier to park. Personally signals this is your own opinion while still sounding polite and clear."
+  },
+  {
+    "id": 323,
+    "domain": "comparing_persuading",
+    "front": "What should you avoid saying in Task 5?",
+    "back": "Avoid saying both options are equally good or I cannot decide. The task requires a clear choice, and staying neutral will make your answer weaker and less persuasive."
+  },
+  {
+    "id": 324,
+    "domain": "comparing_persuading",
+    "front": "How can practical concerns strengthen your argument?",
+    "back": "Mention practical details like location, price, safety, or time saved, since these concrete points are more convincing than vague statements like it is nicer or it is better."
+  },
+  {
+    "id": 325,
+    "domain": "comparing_persuading",
+    "front": "Give a strategy reminder for the last ten seconds of Task 5.",
+    "back": "If you notice you are near the end of your time, quickly restate your final choice in one short sentence. Ending clearly is better than trailing off mid sentence."
+  },
+  {
+    "id": 326,
+    "domain": "difficult_situation",
+    "front": "How much prep and speaking time does Task 6 give you?",
+    "back": "Task 6 gives you 60 seconds to prepare and 60 seconds to speak. You must respond to a difficult or awkward situation, often involving a friend, roommate, or family member."
+  },
+  {
+    "id": 327,
+    "domain": "difficult_situation",
+    "front": "What is the main goal of Task 6?",
+    "back": "You must resolve a tricky social situation in a polite and diplomatic way, usually by suggesting a solution, offering an alternative, or gently saying no while keeping the relationship positive."
+  },
+  {
+    "id": 328,
+    "domain": "difficult_situation",
+    "front": "Give a diplomatic opening phrase for Task 6.",
+    "back": "You can say, I understand this might not be easy to hear, but I wanted to bring something up. Acknowledging the situation first softens the message that follows."
+  },
+  {
+    "id": 329,
+    "domain": "difficult_situation",
+    "front": "How do you politely raise a problem in Task 6?",
+    "back": "Use softening phrases such as I was wondering if or would it be possible to. For example, I was wondering if you could keep the music a bit lower after 11pm."
+  },
+  {
+    "id": 330,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for proposing a solution or compromise.",
+    "back": "You can say, maybe we could try or what if we agreed that. Proposing a specific, workable compromise shows you are trying to solve the problem, not just complain about it."
+  },
+  {
+    "id": 331,
+    "domain": "difficult_situation",
+    "front": "How should you sound when handling conflict in Task 6?",
+    "back": "Sound calm, friendly, and understanding rather than annoyed or blunt. Raters are listening for tone as well as language, so avoid sounding cold or dismissive even when raising a problem."
+  },
+  {
+    "id": 332,
+    "domain": "difficult_situation",
+    "front": "Give a phrase to acknowledge the other person's feelings.",
+    "back": "You can say, I know this is frustrating for you, or I can imagine how disappointing this must be. This shows empathy before you explain your own position."
+  },
+  {
+    "id": 333,
+    "domain": "difficult_situation",
+    "front": "What should the ending of a Task 6 answer include?",
+    "back": "End with a positive note, such as an offer to make it up to them or a hope that things work out, like I hope we can figure something out together soon."
+  },
+  {
+    "id": 334,
+    "domain": "difficult_situation",
+    "front": "How can you use hedging language in Task 6?",
+    "back": "Use phrases like it might be better if or perhaps we could try. Hedging softens a request or suggestion and sounds more polite than a direct command like you should or you must."
+  },
+  {
+    "id": 335,
+    "domain": "difficult_situation",
+    "front": "Give an example of explaining a reason for refusing.",
+    "back": "You can say, the reason I cannot lend you the money is that I am currently saving for rent myself. Giving a clear reason makes your refusal sound honest rather than dismissive."
+  },
+  {
+    "id": 336,
+    "domain": "difficult_situation",
+    "front": "What is a common mistake in Task 6?",
+    "back": "A common mistake is sounding too harsh or blunt, such as simply stating the problem with no softening language or proposed solution. This can sound like a complaint rather than a mature attempt to resolve things."
+  },
+  {
+    "id": 337,
+    "domain": "difficult_situation",
+    "front": "How should you use your 60 seconds of prep time in Task 6?",
+    "back": "Quickly decide your response, note one polite refusal or solution, one reason, and one alternative or compromise. Keep notes short since you only have one minute to plan."
+  },
+  {
+    "id": 338,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for suggesting a compromise.",
+    "back": "You can say, maybe we could meet halfway by. For example, maybe we could meet halfway by splitting the cost of the repair between the two of us."
+  },
+  {
+    "id": 339,
+    "domain": "difficult_situation",
+    "front": "How do you address a specific listener in Task 6?",
+    "back": "Speak directly to the person named in the prompt, using you and your, since the task usually asks you to leave a message or speak to a specific friend, neighbour, or coworker."
+  },
+  {
+    "id": 340,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for apologizing sincerely.",
+    "back": "You can say, I am really sorry for the inconvenience this may cause you. A sincere apology at the start or end of your answer helps maintain a friendly and respectful tone."
+  },
+  {
+    "id": 341,
+    "domain": "difficult_situation",
+    "front": "How can you show you take the problem seriously?",
+    "back": "Say something like, I understand this is important, so let's find a solution together. This phrase shows the listener you are engaged with their problem, not just dismissing it."
+  },
+  {
+    "id": 342,
+    "domain": "difficult_situation",
+    "front": "What tone should you avoid entirely in Task 6?",
+    "back": "Avoid an angry, sarcastic, or overly formal tone. The situations in Task 6 are personal and everyday, so your language should sound like a real conversation between people who know each other."
+  },
+  {
+    "id": 343,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for setting a boundary politely.",
+    "back": "You can say, I hope you understand, but I really need to keep this weekend free for myself. This sets a clear boundary while still sounding considerate of the other person's feelings."
+  },
+  {
+    "id": 344,
+    "domain": "difficult_situation",
+    "front": "How do you close a Task 6 answer on a positive note?",
+    "back": "You can say, I really appreciate you understanding, or I know we can figure this out together. This leaves the impression that you handled the situation maturely from start to finish."
+  },
+  {
+    "id": 345,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for explaining a scheduling conflict.",
+    "back": "You can say, unfortunately, I already have a prior commitment that day, so I will not be able to make it. This gives a clear, believable reason for declining an invitation."
+  },
+  {
+    "id": 346,
+    "domain": "difficult_situation",
+    "front": "What structure works well for Task 6 answers?",
+    "back": "Acknowledge the situation, explain your position or refusal with a reason, offer an alternative or compromise, then close with a friendly or hopeful remark. This keeps the tone diplomatic throughout."
+  },
+  {
+    "id": 347,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for expressing regret about a mistake.",
+    "back": "You can say, I feel terrible about what happened, and I want to make things right. This is useful when the situation involves you needing to apologize for a mistake you made."
+  },
+  {
+    "id": 348,
+    "domain": "difficult_situation",
+    "front": "How can you soften a request you are making of someone else?",
+    "back": "Use phrases like would it be possible for you to or I was wondering if you could. These are much gentler than direct commands and fit the polite, collaborative tone Task 6 requires."
+  },
+  {
+    "id": 349,
+    "domain": "difficult_situation",
+    "front": "Give a phrase for reassuring someone after bad news.",
+    "back": "You can say, I know this is not what you wanted to hear, but I am sure we can work something out. This softens disappointing news while staying supportive."
+  },
+  {
+    "id": 350,
+    "domain": "difficult_situation",
+    "front": "What is a quick strategy reminder for Task 6?",
+    "back": "Keep your tone warm and your language soft, always give a reason for any refusal, and try to end on a positive or hopeful note rather than a flat no."
+  },
+  {
+    "id": 351,
+    "domain": "expressing_opinions",
+    "front": "How much prep and speaking time does Task 7 give you?",
+    "back": "Task 7 gives you 30 seconds to prepare and 90 seconds to speak. You must give and support your opinion on a given topic or statement, so plan quickly and speak for a longer stretch."
+  },
+  {
+    "id": 352,
+    "domain": "expressing_opinions",
+    "front": "What is the main goal of Task 7?",
+    "back": "You must state a clear personal opinion on the topic given and support it with reasons and examples. Since the speaking time is long, you need enough content to fill 90 seconds."
+  },
+  {
+    "id": 353,
+    "domain": "expressing_opinions",
+    "front": "Give a strong opening phrase for Task 7.",
+    "back": "You can say, in my opinion, or personally, I believe that. Starting with a clear opinion phrase immediately tells the listener where you stand on the topic."
+  },
+  {
+    "id": 354,
+    "domain": "expressing_opinions",
+    "front": "How should you use your 30 seconds of prep time in Task 7?",
+    "back": "Since prep time is short, quickly decide your opinion and note two or three reasons or examples. Do not waste time deciding between two sides, pick one and move forward."
+  },
+  {
+    "id": 355,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for introducing your first reason in Task 7.",
+    "back": "You can say, the main reason I feel this way is or, first of all. These phrases signal to the listener that a supporting point is coming next."
+  },
+  {
+    "id": 356,
+    "domain": "expressing_opinions",
+    "front": "How can you fill 90 seconds without running out of ideas?",
+    "back": "Give a personal example alongside your general reasons. For instance, after stating your opinion, describe a specific time in your own life that supports your view."
+  },
+  {
+    "id": 357,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for introducing a second supporting point.",
+    "back": "You can say, in addition, or, furthermore, this also shows that. These transition words help you add more content smoothly without repeating the same phrase each time."
+  },
+  {
+    "id": 358,
+    "domain": "expressing_opinions",
+    "front": "What is a common mistake in Task 7?",
+    "back": "A common mistake is giving only one short reason and then stopping early, leaving a lot of silent time. You should aim to speak for nearly the full 90 seconds."
+  },
+  {
+    "id": 359,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for briefly acknowledging a counterargument.",
+    "back": "You can say, some people might disagree and say, but I still believe. Briefly mentioning the other side shows critical thinking before you return to supporting your own opinion."
+  },
+  {
+    "id": 360,
+    "domain": "expressing_opinions",
+    "front": "How do you close a Task 7 answer well?",
+    "back": "Restate your opinion clearly at the end, such as, for these reasons, I strongly believe that. A clear closing reminds the listener of your position after all your supporting points."
+  },
+  {
+    "id": 361,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for explaining a cause and effect reason.",
+    "back": "You can say, this is because, or as a result of this. For example, this is because working from home saves commuting time, and as a result people feel less stressed."
+  },
+  {
+    "id": 362,
+    "domain": "expressing_opinions",
+    "front": "How can you use a general example to support your opinion?",
+    "back": "You can say, for example, many people today find that. General examples that apply broadly are useful when you do not have a personal story ready to share."
+  },
+  {
+    "id": 363,
+    "domain": "expressing_opinions",
+    "front": "What kind of topics appear in Task 7?",
+    "back": "Topics are usually general and familiar, such as technology, education, work, or lifestyle choices, and ask whether you agree or disagree with a statement or prefer one approach over another."
+  },
+  {
+    "id": 364,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for adding a final supporting thought.",
+    "back": "You can say, on top of that, or, last but not least. These phrases are useful near the end of your answer to add one more supporting idea before you close."
+  },
+  {
+    "id": 365,
+    "domain": "expressing_opinions",
+    "front": "How should your pacing sound in a 90 second answer?",
+    "back": "Speak at a steady, natural pace rather than rushing. It is better to speak clearly with a few short pauses than to talk very fast and make mistakes."
+  },
+  {
+    "id": 366,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for connecting your opinion to daily life.",
+    "back": "You can say, in my own experience, or, from what I have seen. These phrases connect your general opinion to something concrete and personal, which sounds natural and convincing."
+  },
+  {
+    "id": 367,
+    "domain": "expressing_opinions",
+    "front": "What is a useful strategy if the topic feels unfamiliar?",
+    "back": "Pick the side that is easier for you to support with examples, even if it is not your true opinion. The task rewards clear support, not which side you actually agree with."
+  },
+  {
+    "id": 368,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for summarizing multiple points together.",
+    "back": "You can say, overall, when I consider all of these factors. This phrase helps you pull your points together before giving your final restated opinion."
+  },
+  {
+    "id": 369,
+    "domain": "expressing_opinions",
+    "front": "How can you avoid sounding repetitive in Task 7?",
+    "back": "Vary your opinion phrases by alternating between I believe, I think, and in my view instead of repeating the exact same phrase every time you make a new point."
+  },
+  {
+    "id": 370,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for describing a benefit clearly.",
+    "back": "You can say, one major benefit of this is, or, this really helps because. Clearly naming a benefit makes your reasoning easy for the listener to follow."
+  },
+  {
+    "id": 371,
+    "domain": "expressing_opinions",
+    "front": "What structure works well for Task 7 answers?",
+    "back": "State your opinion, give two or three reasons each with a short example, briefly mention the other side, then restate your opinion at the end. This fills the 90 seconds with organized content."
+  },
+  {
+    "id": 372,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for describing a drawback you are avoiding by choosing your side.",
+    "back": "You can say, the downside of the other approach is, which is why I prefer. This lets you explain your choice by pointing out a weakness in the alternative."
+  },
+  {
+    "id": 373,
+    "domain": "expressing_opinions",
+    "front": "How do fillers help if you get stuck briefly in Task 7?",
+    "back": "Short natural fillers like well or that said can give you a second to think without long silence, but do not overuse them, since too many fillers can hurt fluency."
+  },
+  {
+    "id": 374,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for connecting an opinion to a wider group of people.",
+    "back": "You can say, many people in Canada today feel the same way because. This connects your personal opinion to a broader, relatable context that supports your point."
+  },
+  {
+    "id": 375,
+    "domain": "expressing_opinions",
+    "front": "What is a quick strategy reminder for Task 7?",
+    "back": "Decide your opinion fast during the short prep time, then use the long 90 seconds fully by mixing general reasons with at least one personal example to support your view."
+  },
+  {
+    "id": 376,
+    "domain": "unusual_situation",
+    "front": "How much prep and speaking time does Task 8 give you?",
+    "back": "Task 8 gives you 30 seconds to prepare and 60 seconds to speak. You must describe an unusual picture and explain what makes the situation strange or unexpected."
+  },
+  {
+    "id": 377,
+    "domain": "unusual_situation",
+    "front": "What is the main goal of Task 8?",
+    "back": "You must describe a picture showing something odd or out of place and explain what makes it unusual by comparing it to what you would normally expect to see."
+  },
+  {
+    "id": 378,
+    "domain": "unusual_situation",
+    "front": "Give a strong opening phrase for Task 8.",
+    "back": "You can say, this is a very unusual picture because, or, at first glance, something seems out of place here. This immediately tells the listener you understand the task."
+  },
+  {
+    "id": 379,
+    "domain": "unusual_situation",
+    "front": "How should you use your 30 seconds of prep time in Task 8?",
+    "back": "Quickly identify the normal setting, pinpoint exactly what breaks that normal pattern, and note one extra detail about reactions or surroundings you can add at the end."
+  },
+  {
+    "id": 380,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for pointing out what is odd in the picture.",
+    "back": "You can say, what is strange about this picture is that, or, it is unusual to see. For example, it is unusual to see a bicycle parked on top of a car."
+  },
+  {
+    "id": 381,
+    "domain": "unusual_situation",
+    "front": "How can you compare the scene to what's normal in Task 8?",
+    "back": "Use phrases like normally, you would expect or this is not something you would usually see. For example, normally you would expect everyone in a business meeting to be dressed professionally, so seeing someone dressed for the pool is unexpected."
+  },
+  {
+    "id": 382,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for describing what people in the picture might be feeling.",
+    "back": "You can say, the man in the picture looks confused, or, she seems surprised by what happened. Describing reactions adds detail and helps fill your speaking time."
+  },
+  {
+    "id": 383,
+    "domain": "unusual_situation",
+    "front": "What kind of vocabulary is useful for Task 8?",
+    "back": "Words like bizarre, odd, out of place, unexpected, and strange are useful for describing the scene, since the task specifically asks you to explain why something is unusual."
+  },
+  {
+    "id": 384,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for describing the setting of the picture.",
+    "back": "You can say, the picture shows a busy street where, or, this appears to be taking place in a park. Setting the scene helps orient the listener before you explain the odd detail."
+  },
+  {
+    "id": 385,
+    "domain": "unusual_situation",
+    "front": "How do you structure a Task 8 answer well?",
+    "back": "Describe the normal setting first, introduce the specific unusual detail with real description, explicitly compare it to what would normally be expected, then close with an observation about people's reactions."
+  },
+  {
+    "id": 386,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for closing a Task 8 answer.",
+    "back": "You can say, overall, this is definitely not something you would see every day. A closing comment like this shows you understood the humour or strangeness of the picture."
+  },
+  {
+    "id": 387,
+    "domain": "unusual_situation",
+    "front": "What is a common mistake in Task 8?",
+    "back": "A common mistake is only describing the picture in general terms without ever clearly saying what makes it unusual. You must point out the specific odd detail directly."
+  },
+  {
+    "id": 388,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for comparing the scene to what is normal.",
+    "back": "You can say, normally you would expect to see, but instead. For example, normally you would expect to see a dog on a leash, but instead the leash is holding a cat."
+  },
+  {
+    "id": 389,
+    "domain": "unusual_situation",
+    "front": "How can you use humour appropriately in Task 8?",
+    "back": "A light, amused tone works well since these pictures are often funny, so you can say something like, this is actually quite funny when you look closely at it."
+  },
+  {
+    "id": 390,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for describing an object that is in the wrong place.",
+    "back": "You can say, there is a couch sitting right in the middle of the road, which is clearly not where it belongs. Naming the object and its wrong location adds clear detail."
+  },
+  {
+    "id": 391,
+    "domain": "unusual_situation",
+    "front": "How should you pace your 60 seconds in Task 8?",
+    "back": "Spend the first part describing the normal setting and the unusual detail, then use the second half to explicitly compare it to what's normal and add a closing observation about reactions."
+  },
+  {
+    "id": 392,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for introducing the unusual element in Task 8.",
+    "back": "You can say, however, or surprisingly, or what really stands out is. These phrases signal a clear contrast between the normal setting and the unusual detail you are about to describe."
+  },
+  {
+    "id": 393,
+    "domain": "unusual_situation",
+    "front": "What tense is most useful in Task 8?",
+    "back": "Present tense is used to describe what you see happening in the picture right now, since you are describing an in-progress scene, not something that already happened."
+  },
+  {
+    "id": 394,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for expressing surprise about the picture.",
+    "back": "You can say, I have honestly never seen anything quite like this before. Expressing genuine surprise makes your description sound natural and engaged rather than flat."
+  },
+  {
+    "id": 395,
+    "domain": "unusual_situation",
+    "front": "How can you describe size or number to highlight strangeness?",
+    "back": "Point out details like an unusually large number of items or an object that is far too big or small for its location, such as a tiny car squeezed into a narrow parking spot."
+  },
+  {
+    "id": 396,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for wrapping up a Task 8 answer.",
+    "back": "You can say, what makes this even more surprising is that no one else seems to notice. This adds a natural closing observation about the reactions of the people in the picture."
+  },
+  {
+    "id": 397,
+    "domain": "unusual_situation",
+    "front": "What should you avoid doing in Task 8?",
+    "back": "Avoid simply listing objects in the picture without connecting them to what makes the scene unusual. Every detail you mention should tie back to explaining the strangeness."
+  },
+  {
+    "id": 398,
+    "domain": "unusual_situation",
+    "front": "Give a phrase for noting an unusual combination of items.",
+    "back": "You can say, it is strange to see these two things together, since they normally have nothing to do with each other. This works well when the oddity comes from mismatched objects."
+  },
+  {
+    "id": 399,
+    "domain": "unusual_situation",
+    "front": "How can location details make your description more vivid?",
+    "back": "Mention exactly where the odd item is located, such as on the roof, hanging from a tree, or blocking the doorway, since precise location details make your description clearer."
+  },
+  {
+    "id": 400,
+    "domain": "unusual_situation",
+    "front": "What is a quick strategy reminder for Task 8?",
+    "back": "Point out the odd detail clearly and early, offer a simple guess for why it happened, and keep your tone light and observant for the full 60 seconds of speaking time."
+  },
+  {
+    "id": 401,
+    "domain": "general",
+    "front": "What does CELPIP-LS stand for?",
+    "back": "CELPIP-LS stands for Canadian English Language Proficiency Index Program, Listening and Speaking. It is the version of CELPIP used for Canadian citizenship applications, since citizenship only requires proof of listening and speaking ability, not reading and writing."
+  },
+  {
+    "id": 402,
+    "domain": "general",
+    "front": "What two skills does CELPIP-LS test?",
+    "back": "CELPIP-LS tests only Listening and Speaking. It does not include a reading or writing section, unlike the full CELPIP General test used for immigration."
+  },
+  {
+    "id": 403,
+    "domain": "general",
+    "front": "How long does the CELPIP-LS test take overall?",
+    "back": "The whole CELPIP-LS test takes about 70 minutes in one sitting. This includes the Listening section, a short break, and the Speaking section."
+  },
+  {
+    "id": 404,
+    "domain": "general",
+    "front": "Is CELPIP-LS delivered on paper or computer?",
+    "back": "CELPIP-LS is fully computer-delivered. Test-takers listen through headphones and speak into a microphone, and answers are recorded and scored electronically rather than written by hand."
+  },
+  {
+    "id": 405,
+    "domain": "general",
+    "front": "What CLB level do you need for Canadian citizenship?",
+    "back": "Applicants for Canadian citizenship must show Canadian Language Benchmark (CLB) Level 4 in both listening and speaking. This is a language benchmark level, not a percentage score."
+  },
+  {
+    "id": 406,
+    "domain": "general",
+    "front": "Which age group must prove language ability for citizenship?",
+    "back": "Adults aged 18 to 54 at the time of application must provide proof of language ability, such as a CELPIP-LS result, to apply for Canadian citizenship. Applicants outside this age range are exempt."
+  },
+  {
+    "id": 407,
+    "domain": "general",
+    "front": "How many parts does the CELPIP Listening section have?",
+    "back": "The Listening section has six parts, each based on different types of everyday conversations and situations, such as problem solving, discussions, and news items. Each part has its own short audio recording followed by questions."
+  },
+  {
+    "id": 408,
+    "domain": "general",
+    "front": "Roughly how many questions are in the Listening section?",
+    "back": "The Listening section has around 38 questions spread across its six parts. The exact count can vary slightly by test form, but candidates should expect roughly this many."
+  },
+  {
+    "id": 409,
+    "domain": "general",
+    "front": "How many tasks are in the CELPIP Speaking section?",
+    "back": "The Speaking section has eight tasks. Each task asks the candidate to speak for a short, timed period about a different everyday topic or situation, such as giving advice or describing a scene."
+  },
+  {
+    "id": 410,
+    "domain": "general",
+    "front": "How is speaking recorded during the test?",
+    "back": "Speaking answers are recorded through a microphone directly into the computer system. There is a preparation time before each task, followed by a set speaking time, both shown on screen with a countdown timer."
+  },
+  {
+    "id": 411,
+    "domain": "general",
+    "front": "Do listening questions play more than once?",
+    "back": "Most listening audio plays only one time, so candidates must listen carefully the first time. A few specific parts may allow a single replay, but test-takers should always plan as if there is no second chance."
+  },
+  {
+    "id": 412,
+    "domain": "general",
+    "front": "Can you pause the audio during the Listening section?",
+    "back": "No, the audio cannot be paused, rewound, or replayed on demand during the Listening section. The recording moves forward at its own pace, so candidates must answer within the given time as it plays."
+  },
+  {
+    "id": 413,
+    "domain": "general",
+    "front": "What organization creates and administers CELPIP?",
+    "back": "CELPIP is developed and administered by Paragon Testing Enterprises, which works with the University of British Columbia. It is one of the two English tests accepted by Immigration, Refugees and Citizenship Canada."
+  },
+  {
+    "id": 414,
+    "domain": "general",
+    "front": "How long is a CELPIP-LS score valid for citizenship?",
+    "back": "A CELPIP-LS test result is generally valid for two years from the test date for citizenship purposes. Applicants should check that their result will still be valid when they submit their application."
+  },
+  {
+    "id": 415,
+    "domain": "general",
+    "front": "Do you get your CELPIP-LS results on the same day?",
+    "back": "No, results are not given on the same day. Official results are typically released online within a set number of business days after the test, and applicants can then download an official report."
+  },
+  {
+    "id": 416,
+    "domain": "general",
+    "front": "What is the format of most Listening questions?",
+    "back": "Most Listening questions are multiple choice, where the candidate selects one correct answer from three or four options after hearing a short recording. Answers are chosen on screen using a mouse or touchscreen."
+  },
+  {
+    "id": 417,
+    "domain": "general",
+    "front": "What happens between the Listening and Speaking sections?",
+    "back": "There is usually a short break between the Listening section and the Speaking section. This gives the candidate a moment to relax before moving on to the recorded speaking tasks."
+  },
+  {
+    "id": 418,
+    "domain": "general",
+    "front": "Does CELPIP-LS test grammar and vocabulary directly?",
+    "back": "CELPIP-LS does not have a separate grammar or vocabulary test. Instead, correct grammar, natural vocabulary, and clear pronunciation are assessed indirectly through how well you understand spoken English and how clearly you speak."
+  },
+  {
+    "id": 419,
+    "domain": "general",
+    "front": "Is CELPIP-LS accepted for Canadian citizenship applications?",
+    "back": "Yes, CELPIP-LS is one of the official language tests accepted by Immigration, Refugees and Citizenship Canada for proving listening and speaking ability for citizenship. The other main accepted option is IELTS General Training speaking and listening."
+  },
+  {
+    "id": 420,
+    "domain": "general",
+    "front": "Do you need a high overall score to pass CELPIP-LS?",
+    "back": "There is no single overall passing percentage for CELPIP-LS. Instead, each of Listening and Speaking is scored on the Canadian Language Benchmark scale, and citizenship requires reaching CLB Level 4 or higher in both."
+  },
+  {
+    "id": 421,
+    "domain": "general",
+    "front": "Can you use scratch paper during CELPIP-LS?",
+    "back": "Yes, test centres usually provide note paper and a pencil so candidates can jot down key details while listening or planning a spoken answer. This scratch paper is collected at the end and is not scored."
+  },
+  {
+    "id": 422,
+    "domain": "general",
+    "front": "What kind of topics appear in the Speaking tasks?",
+    "back": "Speaking tasks cover everyday situations like giving advice to a friend, describing a personal experience, comparing two options, or describing an unusual picture. The topics are meant to reflect common daily life communication, not academic essays."
+  },
+  {
+    "id": 423,
+    "domain": "general",
+    "front": "How is CELPIP-LS speaking scored?",
+    "back": "Trained human raters listen to the recorded speaking answers and score them against set criteria, including content, vocabulary, listenability, and task fulfillment. Each task receives its own score, which combines into an overall CLB level."
+  },
+  {
+    "id": 424,
+    "domain": "general",
+    "front": "Why might someone choose CELPIP-LS over the full CELPIP General?",
+    "back": "CELPIP-LS is shorter and cheaper than the full CELPIP General test because it skips reading and writing. It suits people who only need to prove language ability for citizenship, where only listening and speaking are required."
+  },
+  {
+    "id": 425,
+    "domain": "general",
+    "front": "What should you bring to the CELPIP-LS test centre?",
+    "back": "Candidates must bring valid government-issued photo identification that matches their test registration. Personal items like phones and notes are usually not allowed in the testing room and must be stored separately."
+  },
+  {
+    "id": 426,
+    "domain": "general",
+    "front": "What does CLB stand for?",
+    "back": "CLB stands for Canadian Language Benchmarks. It is the national standard used in Canada to describe and measure English language ability in everyday, workplace, and study contexts."
+  },
+  {
+    "id": 427,
+    "domain": "general",
+    "front": "How many levels does the CLB scale have?",
+    "back": "The CLB scale runs from Level 1 to Level 12, with Level 1 representing basic beginner ability and Level 12 representing very advanced, near-native ability. Citizenship requires at least Level 4."
+  },
+  {
+    "id": 428,
+    "domain": "general",
+    "front": "What does CLB Level 4 generally represent?",
+    "back": "CLB Level 4 means basic ability to communicate in familiar, everyday situations, such as simple conversations, short exchanges at appointments, and understanding common instructions. It is considered the minimum functional level for many settled-in-Canada activities."
+  },
+  {
+    "id": 429,
+    "domain": "general",
+    "front": "What does CLB Level 5 generally represent?",
+    "back": "CLB Level 5 shows moderate ability to communicate in everyday and some workplace situations, with growing comfort handling less predictable conversations. It goes beyond basic survival English into more independent communication."
+  },
+  {
+    "id": 430,
+    "domain": "general",
+    "front": "What does CLB Level 6 generally represent?",
+    "back": "CLB Level 6 shows adequate ability to participate in a range of social, workplace, and community situations with reasonable clarity and detail. Many skilled occupations and some immigration pathways look for this level or higher."
+  },
+  {
+    "id": 431,
+    "domain": "general",
+    "front": "What does a higher CLB number mean overall?",
+    "back": "A higher CLB number means stronger, more flexible communication ability, with more accurate grammar, wider vocabulary, and comfort in more complex or unfamiliar situations. Lower numbers reflect more basic, predictable communication."
+  },
+  {
+    "id": 432,
+    "domain": "general",
+    "front": "Is the CLB scale specific to CELPIP only?",
+    "back": "No, the CLB scale is a general Canadian standard used across several tests and programs, not just CELPIP. CELPIP scores are simply converted onto this shared national scale so results can be compared consistently."
+  },
+  {
+    "id": 433,
+    "domain": "general",
+    "front": "Does CLB Level 4 mean perfect English?",
+    "back": "No, CLB Level 4 does not mean perfect or fluent English. It means functional, basic communication in familiar everyday topics, with some hesitation or simple errors still expected at this level."
+  },
+  {
+    "id": 434,
+    "domain": "general",
+    "front": "Are listening and speaking scored on separate CLB levels?",
+    "back": "Yes, Listening and Speaking each receive their own separate CLB level based on that section's performance. Both must meet CLB Level 4 or higher for the citizenship language requirement to be satisfied."
+  },
+  {
+    "id": 435,
+    "domain": "general",
+    "front": "What kind of raw score maps to a CLB level?",
+    "back": "Test scores from correct listening answers and rated speaking performance are converted using an official scoring table into a CLB level. Candidates never see a plain percentage as their final result, only the CLB level itself."
+  },
+  {
+    "id": 436,
+    "domain": "general",
+    "front": "Why does Canada use the CLB scale instead of percentages?",
+    "back": "The CLB scale describes what a person can actually do with the language in real situations, not just how many questions they answered correctly. This makes it more useful for immigration, citizenship, and workplace decisions across different tests."
+  },
+  {
+    "id": 437,
+    "domain": "general",
+    "front": "Can your CLB level differ between listening and speaking?",
+    "back": "Yes, it is common for a candidate to score at a different CLB level in listening than in speaking. Someone might understand spoken English well but need more practice producing clear spoken answers, or the reverse."
+  },
+  {
+    "id": 438,
+    "domain": "general",
+    "front": "What is one way to think about the CLB scale by range?",
+    "back": "Roughly, CLB 1 to 3 covers basic survival communication, CLB 4 to 6 covers everyday and moderate workplace communication, and CLB 7 and above covers more advanced, precise, and flexible communication in complex situations."
+  },
+  {
+    "id": 439,
+    "domain": "general",
+    "front": "Does reaching CLB 4 guarantee a passing citizenship application?",
+    "back": "No, meeting CLB Level 4 in listening and speaking only satisfies the language requirement, one part of the citizenship application. Other requirements like residency, knowledge of Canada, and background checks are separate and must also be met."
+  },
+  {
+    "id": 440,
+    "domain": "general",
+    "front": "What does 'benchmark' mean in Canadian Language Benchmarks?",
+    "back": "A benchmark is a reference point used to measure and describe a specific level of ability. Each CLB level acts as a benchmark describing typical tasks and communication skills a person at that level can handle."
+  },
+  {
+    "id": 441,
+    "domain": "general",
+    "front": "What is a good habit for listening to instructions carefully?",
+    "back": "Listen for key words like numbers, names, times, and locations, since these details are often what questions ask about afterward. Missing one small detail can change the correct answer, so focused listening matters throughout."
+  },
+  {
+    "id": 442,
+    "domain": "general",
+    "front": "What does the idiom 'get the hang of it' mean?",
+    "back": "It means to learn how to do something well after practice, such as getting used to a new skill or routine. For example, someone might say, 'It took a while, but I finally got the hang of using the new system.'"
+  },
+  {
+    "id": 443,
+    "domain": "general",
+    "front": "What does the idiom 'on the same page' mean?",
+    "back": "It means that two or more people agree or understand something in the same way. For example, 'Let's make sure we're on the same page before the meeting starts.'"
+  },
+  {
+    "id": 444,
+    "domain": "general",
+    "front": "What does the idiom 'run into someone' mean?",
+    "back": "It means to meet someone by chance, without planning it in advance. For example, 'I ran into my old neighbour at the grocery store yesterday.'"
+  },
+  {
+    "id": 445,
+    "domain": "general",
+    "front": "What does the idiom 'call it a day' mean?",
+    "back": "It means to stop working on something for the time being, usually because enough has been done or people are tired. For example, 'We've made good progress, let's call it a day.'"
+  },
+  {
+    "id": 446,
+    "domain": "general",
+    "front": "What does the idiom 'under the weather' mean?",
+    "back": "It means feeling slightly unwell or sick, but not seriously ill. For example, 'I'm feeling a bit under the weather today, so I might leave work early.'"
+  },
+  {
+    "id": 447,
+    "domain": "general",
+    "front": "What does the idiom 'give someone a hand' mean?",
+    "back": "It means to help someone with a task. For example, 'Could you give me a hand carrying these boxes upstairs?'"
+  },
+  {
+    "id": 448,
+    "domain": "general",
+    "front": "What does the idiom 'keep an eye on' mean?",
+    "back": "It means to watch or monitor something or someone carefully. For example, 'Can you keep an eye on my bag while I go to the washroom?'"
+  },
+  {
+    "id": 449,
+    "domain": "general",
+    "front": "What does the idiom 'in a nutshell' mean?",
+    "back": "It means to summarize something briefly and simply, covering only the main point. For example, 'In a nutshell, the project was delayed because of supply issues.'"
+  },
+  {
+    "id": 450,
+    "domain": "general",
+    "front": "What does the idiom 'a piece of cake' mean?",
+    "back": "It means something is very easy to do. For example, 'Don't worry about the test, it's a piece of cake once you understand the format.'"
+  },
+  {
+    "id": 451,
+    "domain": "general",
+    "front": "What does the idiom 'break the ice' mean?",
+    "back": "It means to say or do something to relax people and start a conversation, especially with people you don't know well. For example, 'She told a funny story to break the ice at the meeting.'"
+  },
+  {
+    "id": 452,
+    "domain": "general",
+    "front": "What does the transition word 'however' signal?",
+    "back": "'However' signals a contrast or a change in direction from the previous idea. For example, 'I wanted to go for a walk, however it started raining.'"
+  },
+  {
+    "id": 453,
+    "domain": "general",
+    "front": "What does the transition phrase 'in addition' signal?",
+    "back": "'In addition' signals that another point is being added to support or continue the same idea. For example, 'The apartment is close to transit, and in addition, it has a large kitchen.'"
+  },
+  {
+    "id": 454,
+    "domain": "general",
+    "front": "What does the transition word 'therefore' signal?",
+    "back": "'Therefore' signals a result or conclusion that follows logically from something already said. For example, 'The bus was late, therefore I missed my connection.'"
+  },
+  {
+    "id": 455,
+    "domain": "general",
+    "front": "What does the transition phrase 'on the other hand' signal?",
+    "back": "'On the other hand' signals that a different, often opposite, point of view or option is being introduced. For example, 'One option is cheaper. On the other hand, the other option is more convenient.'"
+  },
+  {
+    "id": 456,
+    "domain": "general",
+    "front": "What does the transition word 'meanwhile' signal?",
+    "back": "'Meanwhile' signals that something is happening at the same time as something else. For example, 'I was cooking dinner, meanwhile my roommate was setting the table.'"
+  },
+  {
+    "id": 457,
+    "domain": "general",
+    "front": "What does the transition phrase 'for instance' signal?",
+    "back": "'For instance' introduces a specific example that supports the point just made. For example, 'Many jobs require good communication skills, for instance customer service roles.'"
+  },
+  {
+    "id": 458,
+    "domain": "general",
+    "front": "What does the connector phrase 'as a result' signal?",
+    "back": "'As a result' introduces a consequence or outcome caused by something mentioned before. For example, 'The store was closed early, as a result we had to shop somewhere else.'"
+  },
+  {
+    "id": 459,
+    "domain": "general",
+    "front": "What does the connector phrase 'in other words' signal?",
+    "back": "'In other words' introduces a restatement of an idea using simpler or clearer language. For example, 'The plan wasn't approved, in other words we need a new proposal.'"
+  },
+  {
+    "id": 460,
+    "domain": "general",
+    "front": "What does the connector phrase 'even so' signal?",
+    "back": "'Even so' signals a contrast, similar to 'however,' often after acknowledging a fact. For example, 'The traffic was heavy, even so we arrived on time.'"
+  },
+  {
+    "id": 461,
+    "domain": "general",
+    "front": "What does the phrase 'to sum up' introduce?",
+    "back": "'To sum up' introduces a brief summary of the main points already discussed. For example, 'To sum up, the new schedule saves time but costs more.'"
+  },
+  {
+    "id": 462,
+    "domain": "general",
+    "front": "How do you say you agree with someone politely?",
+    "back": "You can say 'I completely agree,' 'That makes sense to me,' or 'I see it the same way.' These phrases show clear agreement while sounding natural and polite in everyday conversation."
+  },
+  {
+    "id": 463,
+    "domain": "general",
+    "front": "How do you politely disagree with someone in English?",
+    "back": "You can say 'I see your point, but I think differently,' or 'I'm not sure I agree with that.' Softening a disagreement this way keeps the conversation respectful rather than sounding blunt."
+  },
+  {
+    "id": 464,
+    "domain": "general",
+    "front": "How do you express a strong opinion politely?",
+    "back": "You can say 'In my opinion,' 'I strongly believe,' or 'From my point of view.' Starting with one of these phrases signals clearly that you are about to share a personal viewpoint."
+  },
+  {
+    "id": 465,
+    "domain": "general",
+    "front": "How do you ask someone to repeat something politely?",
+    "back": "You can say 'Could you say that again, please?' or 'I'm sorry, could you repeat that?' These are polite, natural ways to ask for clarification without sounding rude."
+  },
+  {
+    "id": 466,
+    "domain": "general",
+    "front": "How do you politely interrupt someone in a conversation?",
+    "back": "You can say 'Sorry to interrupt, but...' or 'Can I just add something here?' These phrases let you join the conversation without seeming impolite."
+  },
+  {
+    "id": 467,
+    "domain": "general",
+    "front": "What phrase can you use to give a suggestion politely?",
+    "back": "You can say 'Maybe we could try...' or 'Have you considered...?' These phrases offer an idea gently instead of sounding like a command."
+  },
+  {
+    "id": 468,
+    "domain": "general",
+    "front": "What phrase shows you are thinking before answering?",
+    "back": "You can say 'Let me think about that for a moment,' or 'That's a good question.' These natural filler phrases give you a moment to organize your thoughts before speaking."
+  },
+  {
+    "id": 469,
+    "domain": "general",
+    "front": "What is a natural way to express uncertainty in English?",
+    "back": "You can say 'I'm not entirely sure, but...' or 'As far as I know...' These phrases let you answer honestly even when you are not one hundred percent certain."
+  },
+  {
+    "id": 470,
+    "domain": "general",
+    "front": "What phrase can express partial agreement?",
+    "back": "You can say 'I agree to some extent, but...' or 'That's true, although...' These phrases show you understand the other view while still adding your own perspective."
+  },
+  {
+    "id": 471,
+    "domain": "general",
+    "front": "What time expression means 'a short time from now'?",
+    "back": "'In a little while' or 'shortly' both mean a short time from now. For example, 'The bus should arrive shortly.'"
+  },
+  {
+    "id": 472,
+    "domain": "general",
+    "front": "What time expression means 'not long ago'?",
+    "back": "'Recently' or 'a little while ago' both mean not long ago. For example, 'I recently moved to a new apartment.'"
+  },
+  {
+    "id": 473,
+    "domain": "general",
+    "front": "What time expression means 'from now on'?",
+    "back": "'From now on' means starting at this point in time and continuing into the future. For example, 'From now on, I'll check my email every morning.'"
+  },
+  {
+    "id": 474,
+    "domain": "general",
+    "front": "What time expression describes something happening regularly?",
+    "back": "'On a regular basis' or 'every so often' can describe something that happens repeatedly over time. For example, 'I visit my parents on a regular basis.'"
+  },
+  {
+    "id": 475,
+    "domain": "general",
+    "front": "What time expression means 'at some point before now'?",
+    "back": "'At some point' or 'previously' both refer to a time before now, without being specific. For example, 'I had previously worked in a different city.'"
+  },
+  {
+    "id": 476,
+    "domain": "general",
+    "front": "What does 'once in a while' mean?",
+    "back": "'Once in a while' means occasionally, not very often. For example, 'We go out for dinner once in a while, maybe once a month.'"
+  },
+  {
+    "id": 477,
+    "domain": "general",
+    "front": "What does 'right away' mean?",
+    "back": "'Right away' means immediately, without delay. For example, 'Please send the form right away so we can process it today.'"
+  },
+  {
+    "id": 478,
+    "domain": "general",
+    "front": "What does 'sooner or later' mean?",
+    "back": "'Sooner or later' means that something will eventually happen, even if the exact time is unknown. For example, 'Sooner or later, we'll need to replace the old car.'"
+  },
+  {
+    "id": 479,
+    "domain": "general",
+    "front": "What common phrase describes something happening at the last minute?",
+    "back": "'At the last minute' describes doing something very close to a deadline, often with little planning ahead. For example, 'She finished the report at the last minute.'"
+  },
+  {
+    "id": 480,
+    "domain": "general",
+    "front": "What is a natural way to describe a plan that changed?",
+    "back": "You can say 'plans fell through' to mean something planned did not happen after all. For example, 'Our trip fell through because of the weather.'"
+  },
+  {
+    "id": 481,
+    "domain": "general",
+    "front": "Why should you stay calm during the Listening section?",
+    "back": "Nerves can make it harder to focus on details in fast-moving audio. Taking a slow breath before each part starts and focusing only on the current recording helps you catch key information more clearly."
+  },
+  {
+    "id": 482,
+    "domain": "general",
+    "front": "What should you do if you miss part of a listening question?",
+    "back": "Make your best guess and move on immediately rather than dwelling on it, since the audio will not pause or repeat. Spending too much time worrying about one missed detail can cause you to miss the next question too."
+  },
+  {
+    "id": 483,
+    "domain": "general",
+    "front": "How should you pace yourself during the Listening section?",
+    "back": "Keep up with the recording and the on-screen questions together, answering as each item comes up rather than waiting until the end. Falling behind even slightly can make it hard to catch up before the next part begins."
+  },
+  {
+    "id": 484,
+    "domain": "general",
+    "front": "What should you do if you are unsure of a listening answer?",
+    "back": "Choose your best guess based on what you understood and move forward, since there is no penalty for guessing and you cannot go back to change certain answers once the recording continues. An educated guess is always better than leaving it blank."
+  },
+  {
+    "id": 485,
+    "domain": "general",
+    "front": "Why is there no second take allowed for speaking answers?",
+    "back": "CELPIP-LS speaking tasks are recorded once within a fixed time limit to reflect natural, real-time communication, similar to a real conversation. This means candidates should speak confidently with their first response rather than trying to plan a perfect script."
+  },
+  {
+    "id": 486,
+    "domain": "general",
+    "front": "How should you use the preparation time before a speaking task?",
+    "back": "Use the short preparation time to quickly organize two or three main ideas, rather than trying to write out full sentences. A brief mental outline helps you speak more smoothly once the recording time starts."
+  },
+  {
+    "id": 487,
+    "domain": "general",
+    "front": "What should you do if you make a mistake while speaking?",
+    "back": "Simply correct yourself briefly and keep going, the same way people naturally self-correct in real conversation. Stopping completely or panicking wastes valuable speaking time and can make the answer less clear overall."
+  },
+  {
+    "id": 488,
+    "domain": "general",
+    "front": "Why is it important to keep talking until the speaking time ends?",
+    "back": "Raters assess how well you use the full response, so stopping early can leave your answer sounding incomplete. Continuing to add relevant details or examples until time runs out shows stronger communication ability."
+  },
+  {
+    "id": 489,
+    "domain": "general",
+    "front": "How can practising with a timer help before test day?",
+    "back": "Practising with the same short preparation and speaking times used on the real test helps you get comfortable organizing your thoughts quickly. This reduces surprise and stress when the real countdown timer appears on test day."
+  },
+  {
+    "id": 490,
+    "domain": "general",
+    "front": "Why should you arrive early on test day?",
+    "back": "Arriving early gives time for identification checks, sign-in procedures, and getting settled at the computer station without feeling rushed. Arriving late could mean missing part of the instructions or losing testing time."
+  },
+  {
+    "id": 491,
+    "domain": "general",
+    "front": "What is a simple way to manage nerves before speaking?",
+    "back": "Taking a slow, deep breath and reminding yourself to focus on being understood, not perfect, can reduce anxiety. Small pauses to think are normal and expected, even for confident speakers."
+  },
+  {
+    "id": 492,
+    "domain": "general",
+    "front": "Should you memorize scripted answers for speaking tasks?",
+    "back": "No, memorized scripts often sound unnatural and may not fit the actual topic given on test day. It is better to practise organizing ideas quickly and speaking naturally about a variety of everyday topics."
+  },
+  {
+    "id": 493,
+    "domain": "general",
+    "front": "How can headphones affect your Listening performance?",
+    "back": "Make sure headphones are worn correctly and the volume feels comfortable before the section starts, since equipment issues can distract from listening carefully. Raise your hand to alert staff right away if there is a technical problem."
+  },
+  {
+    "id": 494,
+    "domain": "general",
+    "front": "Why is clear pronunciation more important than a perfect accent?",
+    "back": "CELPIP-LS speaking is scored on how clearly you can be understood, not on eliminating a natural accent. Speaking at a steady pace with clear word endings usually matters more than sounding like a native speaker."
+  },
+  {
+    "id": 495,
+    "domain": "general",
+    "front": "What is a good strategy for describing a picture in a speaking task?",
+    "back": "Start with a general overview of what you see, then describe specific details, and finish with a guess about the situation or context. This structure keeps your answer organized and easy for the rater to follow."
+  },
+  {
+    "id": 496,
+    "domain": "general",
+    "front": "How should you handle an unfamiliar speaking topic?",
+    "back": "Use the preparation time to connect the topic to something familiar in your own experience or general knowledge, even if it is not exactly what you expected. Staying calm and speaking confidently matters more than having perfect prior knowledge."
+  },
+  {
+    "id": 497,
+    "domain": "general",
+    "front": "Why is regular listening practice with everyday English helpful?",
+    "back": "Listening to everyday conversations, radio, or podcasts helps you get used to natural speaking speed, common expressions, and different accents. This makes the fast-paced CELPIP-LS audio feel more familiar on test day."
+  },
+  {
+    "id": 498,
+    "domain": "general",
+    "front": "What mindset helps most on test day?",
+    "back": "Treating each section as a normal conversation rather than a stressful exam can help you respond naturally. Confidence and clear communication are valued more than sounding perfectly formal or memorized."
+  },
+  {
+    "id": 499,
+    "domain": "general",
+    "front": "What should you do if you feel rushed during a speaking task?",
+    "back": "Slow down slightly and focus on finishing your main idea clearly rather than trying to say everything at once. A shorter, clear answer is usually stronger than a rushed answer full of unclear or unfinished sentences."
+  },
+  {
+    "id": 500,
+    "domain": "general",
+    "front": "What is the best overall preparation approach for CELPIP-LS?",
+    "back": "Regular practice with real everyday listening and speaking situations, combined with familiarity with the test format and timing, builds both language skill and confidence. Consistent practice over time is more effective than last-minute cramming before test day."
+  }
+]
